@@ -1,0 +1,7019 @@
+[
+  {
+    "index": "1",
+    "question": "1. Një klasifikim shumë i përdorur për antibiotikët β-laktamikë merr parasysh praninë e disa pjesëve strukturore karakteristike. Cilit nga emrave të mëposhtëm i korrespondon struktura e treguar?",
+    "options": [
+      "Penam",
+      "Cefem",
+      "Monobaktam",
+      "Karbapenem"
+    ],
+    "image": [
+      "images\\image_131.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "2",
+    "question": "2. Cilit nga emrave të mëposhtëm i korrespondon struktura e treguar?",
+    "options": [
+      "Penam",
+      "Cefem",
+      "6-APA",
+      "7-ACA"
+    ],
+    "image": [
+      "images\\image_18.jpeg"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "3",
+    "question": "3. Acidi 6-APA përbëhet nga unaza tiazolidinike dhe ajo:",
+    "options": [
+      "Piridinike",
+      "Piperidinike",
+      "ß-laktamike",
+      "Oksazolike"
+    ],
+    "image": [
+      "images\\image_18.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "4",
+    "question": "4. Acidi 7-ACA është i përbërë nga unaza β-laktamike dhe ajo:",
+    "options": [
+      "Pirolidinike",
+      "Tiazolidike",
+      "Dihidrotiazinike",
+      "Oksazolike"
+    ],
+    "image": [
+      "images\\image_44.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "5",
+    "question": "5. Imipenemi përdoret i shoqëruar me cilastatinë, për të: ",
+    "options": [
+      "Penguar oksidimin e shpejtë",
+      "Frenuar hidrolizën në nivel renal",
+      "Frenuar degradimin e shpejtë nga ß- laktamazat",
+      "Rritur përqendrimin plazmatik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "6",
+    "question": "6. Cila nga thëniet e mëposhtme për aciklovirin është e gabuar: ",
+    "options": [
+      "Është derivat i bazës purinike guanozinë",
+      "Vepron ndaj viruseve me ARN",
+      "Forma aktive përmban fosfat",
+      "Është analog i rremë i bazave nukleotide"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "7",
+    "question": "7. Çfarë kanë të përbashkët komponimet e mëposhtëme:",
+    "options": [
+      "Bëjnë pjesë tek barnat ACE-Inhibitorë",
+      "Janë derivate të pirimidinës",
+      "Kanë veprim sinergjik antibakteror",
+      "Kanë veprim antagonist"
+    ],
+    "image": [
+      "images\\image_63.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "8",
+    "question": "8. Formula e mëposhtme kimike paraqet një agjent.",
+    "options": [
+      "Antibakterial",
+      "Antimykotik",
+      "Antituberkular",
+      "Antiviral"
+    ],
+    "image": [
+      "images\\image_132.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "9",
+    "question": "9. Cila nga zgjedhjet e mëposhtme nuk qëndron: ",
+    "options": [
+      "Streptomycin me rrugë endovenoze",
+      "Gentamycin me rrugë endovenoze",
+      "Neomycin me rrugë orale",
+      "Penicilin G me rrugë orale"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "10",
+    "question": "10. Përcaktoni numrin total të përbërsve aromantikë të pranishëm në strukturën e eritrocinës:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "11",
+    "question": "11. Një substancë që mund të sintetizohet nga bakteret, por që njerëzit e marrin me anë të dietës, është:",
+    "options": [
+      "Sulfanilamidi",
+      "PABA",
+      "PASA",
+      "Acidi folik"
+    ],
+    "image": [
+      "images\\image_82.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "12",
+    "question": "12. Fluorkinolonet janë: ",
+    "options": [
+      "Antimetabolitë",
+      "Bakterostatikë",
+      "Me spektër të gjerë",
+      "Me spektër të ngushtë"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "13",
+    "question": "13. Ciprofloksacina vepron në: ",
+    "options": [
+      "ADN xhirazën bakterore ",
+      "Murin qelizor bakteror",
+      "Metabolizmin energjitik të qelizës bakterore",
+      "Nënnjësinë ribozomike 30S"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "14",
+    "question": "14. Cili nga pohimet e mëposhtme për ciprofloksacinën, është i vërtetë:",
+    "options": [
+      "Prania e fluorit në strukturë bën që të veprojë vetëm mbi bakteret Gram negative",
+      "Prania e fluorit në strukturë bën që të veprojë vetëm mbi bakteret Gram pozitive",
+      "Barnat antiacid që përmbajnë hidroksid Al përmirësojnë përthithjen e barit",
+      "Barnat antiacid që përmbajnë hidroksid Mg pakësojnë përthithjen e barit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "15",
+    "question": "15. Ceftiraksioni, që ka strukturën e mëposhtme përmbahet në specialitetin farmaceutik “Rocefin”. Në cilën nga pikat e mëposhtëme vepron ai?",
+    "options": [
+      "Acidet nukleike të qelizës bakterike",
+      "Murin qelizor bakteror",
+      "Metabolizmin energjitik të qelizës bakterore",
+      "Sintezën proteinike ribozomike"
+    ],
+    "image": [
+      "images\\image_117.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "16",
+    "question": "16. Acidi klavulonik është në gjendje të:",
+    "options": [
+      "Fuqizojë veprimin e antibiotikëve me strukturë glikozidike",
+      "Inhibojë acetilazat bakteriale",
+      "Inhibojë ß-laktamazat",
+      "Inhibojë adenilazat dhe fosfatazat bakteriale"
+    ],
+    "image": [
+      "images\\image_12.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "17",
+    "question": "17. Ç’lidhje kanë midis tyre komponimet e mëposhtëme:",
+    "options": [
+      "Bëjnë pjesë në të njëjtin grup farmakologjik",
+      "Bëjnë pjesë në të njëjtin grup kimik",
+      "Jepen të kombinuar bashkë në terapi",
+      "Kanë të njëjtin mekanizëm veprimi"
+    ],
+    "image": [
+      "images\\image_33.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "18",
+    "question": "18. Cili nga pohimet e mëposhtme është i gabuar:",
+    "options": [
+      "Kjo formulë është struktura bazë e cefalosporinave",
+      "Cikli A paraqet unazën ß-laktamike",
+      "Cefalosporinat ndryshojnë nga radikalet R1 e R2",
+      "Në pozicionin 4 ka një grup karboksilik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "19",
+    "question": "19. Ka në strukturën kimike, një nitrogrup aromatik dhe mbetjen dikloracetamidike: ",
+    "options": [
+      "Ampicilina",
+      "Eritromicina",
+      "Kloramfenikoli",
+      "Gentamicina"
+    ],
+    "image": [
+      "images\\image_55.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "21",
+    "question": "21. Cili nga pohimet e mëposhtme për sulfasalazinën është i vërtetë: ",
+    "options": [
+      "Përthithet mirë në traktin gastrointestinal",
+      "Pëson reduktim deri në acid p-aminosalicilik",
+      "Është një promedikament",
+      "Gjendet në treg kryesisht në formë supozitorësh"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "22",
+    "question": "22. Sulfadoksina ka gjysëjetë plazmatike:",
+    "options": [
+      "Më pak se 12 orë",
+      "12 deri në 24 orë",
+      "24 deri në 48 orë",
+      "120 deri në 150 orë"
+    ],
+    "image": [
+      "images\\image_112.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "23",
+    "question": "23. Cili grup farmakologjik i përket një komponim që ka strukturën e pjesshme të treguar?",
+    "options": [
+      "Antibiotikë - penicilina",
+      "Antibiotikë - tetraciklina",
+      "Antibakterialë - kinolone",
+      "Antibakterialë - sulfonamide"
+    ],
+    "image": [
+      "images\\image_146.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "24",
+    "question": "24. Kur modifikohet grupi fenilac etamidik i penicilinës G me grupin R të paraqitur më poshtë, përftohen penicilina:",
+    "options": [
+      "Të qëndrueshme në mjedis acid",
+      "Me efekt të zgjatur",
+      "Me spektër të gjerë",
+      "Rezistente ndaj ß-laktamazave"
+    ],
+    "image": [
+      "images\\image_169.jpeg"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "25",
+    "question": "25. Kur grupi aminik i 6APA acilohet me grupin R të treguar më poshtë, përftohet amoksicilina, që i përket klasës së penicilinave:",
+    "options": [
+      "Me efekt të zgjatur",
+      "Të qëndrueshme në mjedis acid",
+      "Rezistente ndaj ß-laktamazave",
+      "Antipseudomonas"
+    ],
+    "image": [
+      "images\\image_191.png",
+      "images\\image_212.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "26",
+    "question": "26. Pivamicilina është një promedikament i:",
+    "options": [
+      "Benzilpenizilinës",
+      "Ampicilinës",
+      "Propicilinës",
+      "Oksacilinës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "27",
+    "question": "27. Ku vepron medikamenti me strukturëm e mëposhtme kimike:",
+    "options": [
+      "Inhibon ADN-xhirazën",
+      "Në membranën citoplazmatike",
+      "Në njësinë ribozomike 50S",
+      "Në njësinë ribozomike 30S"
+    ],
+    "image": [
+      "images\\image_96.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "28",
+    "question": "28. Tiamfenikoli në strukturën e tij përveç grupit dikloracetamidik, ka në unazën aromatike edhe një grup:",
+    "options": [
+      "-NO",
+      "-SH",
+      "-SO3H",
+      "-SO2CH3"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "29",
+    "question": "29. Bacitracina bën pjesë në klasën e antibiotikëve: ",
+    "options": [
+      "Aminoglikozidik",
+      "Makrolidik",
+      "Penicilina",
+      "Polipepdikë"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "30",
+    "question": "30. Nitrofurantoina përdoret si: ",
+    "options": [
+      "Antibakterik intestinal",
+      "Antibakterik sistemik",
+      "Antibakterik urinar",
+      "Antiprotozoar"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "31",
+    "question": "31. Cili nga grupet e mëposhtme me veti antimikrobike, vepron mbi acidet nukleike të qelizës bakterore:",
+    "options": [
+      "Kinolonet (mbi ADN xhitrazen)",
+      "Tetraciklinat",
+      "Monobaktamet",
+      "Rifampicinat (mbi ARN sintetazen)"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "32",
+    "question": "32. Antimykotikët e serisë së imidazoleve, ia detyrojnë veprimtarinë e tyre: ",
+    "options": [
+      "Bllokimit të sintezës së kolesterolit",
+      "Bllokimit të sintezës së ergosterolit",
+      "Dezintegrimit të membranës së mykut",
+      "Bllokimit të topoizomerazës mykotike"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "33",
+    "question": "33. Amfotericina B, që ka strukturën e treguar kimike, është bari i ygjedhur për trajnimin e:",
+    "options": [
+      "Skizofrenisë",
+      "Ulçerës peptike",
+      "Hipertensionit",
+      "Mykozave sistemike"
+    ],
+    "image": [
+      "images\\image_2.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "34",
+    "question": "34. Bari me strukturën e mëposhtëme ka veprim:",
+    "options": [
+      "Antimykotik",
+      "Antituberkular",
+      "Antitumoral",
+      "Antiviral"
+    ],
+    "image": [
+      "images\\image_23.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "35",
+    "question": "35. Toksiciteti i ulët, efikasiteti dhe selektiviteti i aciklovirit, varen nga fakti që principi aktiv: ",
+    "options": [
+      "Aktivizohet në qelizat e infektuara nga timinë kinaza e virusit",
+      "Paraqet një farmakokinetikë të favorshme",
+      "Mund të nxisë prodhimin selektiv të interferonit",
+      "Inhibon në mënyrë selektive një enzimë proteolitike virale"
+    ],
+    "image": [
+      "images\\image_45.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "36",
+    "question": "36. Cilit grup farmakologjik i përket komponimi me strukturë të pjesshme të tregur:",
+    "options": [
+      "Antibiotikë - tetraciklina",
+      "Antiprotozoarë - 4-aminokinolina",
+      "Antiprotozoarë - 8-aminokinolina",
+      "Antibakterialë - sulfamidikë"
+    ],
+    "image": [
+      "images\\image_67.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "37",
+    "question": "37. Ndër karakteristikat dhe vetitë e mëposhtme tregoni atë që përshkruan më mirë veprimin farmakologjik të agjentit antitumoral doksorubicinë:",
+    "options": [
+      "Agjent alkilues",
+      "Antibiotik interkelues",
+      "Antimetabolit antifolat",
+      "Antimetabolit antagonist pirimidinik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "38",
+    "question": "38. Cili nga antitumoralët e mëposhtëm, nuk vepron nëpërmjet alkilimit të ADN-së: ",
+    "options": [
+      "Klorambucili",
+      "Busulfani",
+      "Prokarbazina",
+      "Merkaptopurina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "39",
+    "question": "39. Cili nga principet aktive të mëposhtme, është një citostatik alkilues: ",
+    "options": [
+      "Fluorouracili",
+      "Melfalani",
+      "Merkaptopurina",
+      "Metotreksati"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "40",
+    "question": "40. Emërtimi kimik i ciklofostamidit është (RS)-2-[bis(2-kloretil)amino]tetrahidro-2H-1,2,3-oksazoforino-2-oksidi. Cilës qendër kirale i referohet?",
+    "options": [
+      "Fosforit",
+      "Azotit terciar",
+      "Azotit sekondar",
+      "Oksigjenit ciklik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "41",
+    "question": "41. Grupi përgjegjës për veprimin në strukturën e ciklofosfamidit është:",
+    "options": [
+      "Cikli oksazofosforinik",
+      "Fragmenti N, N-bis-(2-kloretilaminik)",
+      "Grupi fosfamidik",
+      "E gjithë molekula"
+    ],
+    "image": [
+      "images\\image_90.png",
+      "images\\image_136.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "42",
+    "question": "42. Cilit grup farmakologjik i përke struktura e mëposhtëme:",
+    "options": [
+      "Analeptik",
+      "Dezinfektues",
+      "Antitumoral",
+      "Antimikrobik"
+    ],
+    "image": [
+      "images\\image_158.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "43",
+    "question": "43. Me cilin nga komponimet e mëposhtëme ka ngjashmëri më të madhe klefamidi, një amebicid sintetik që ka strukturën e mëposhtme:",
+    "options": [
+      "Nitrofuranin",
+      "Melfalanin",
+      "Furosemidin",
+      "Kloramfenikolin"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "44",
+    "question": "44. Cili nga barnat e mëposhtëm, nuk ka veprim ndaj Mycobacterium tuberculosis: ",
+    "options": [
+      "Etambutoli",
+      "Etionamidi",
+      "Metronidazoli",
+      "PAS"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "45",
+    "question": "45. Cili është veprimi farmakologjik më i rëndësishëm që mund të supozohet për strukturën kimike të mëposhtme:",
+    "options": [
+      "Nikotinik",
+      "Anksiolitik",
+      "Kolinergjik",
+      "Antimuskarinik"
+    ],
+    "image": [
+      "images\\image_180.png",
+      "images\\image_202.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "46",
+    "question": "46. Skopolamina që ka strukturën e mëposhtme, është një alkaloid me bërthamë:",
+    "options": [
+      "Indolike",
+      "Imidazolike",
+      "Tropanike",
+      "Benzilizokinolinike"
+    ],
+    "image": [
+      "images\\image_214.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "47",
+    "question": "47. Cili nga barnat e mëposhtëm nuk është një antagonist i receptorëve ?-adrenergjikë? ",
+    "options": [
+      "Fentolamina",
+      "Tolazolina",
+      "Dobutamina",
+      "Prazosina"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "48",
+    "question": "48. Cili është aktiviteti farmakologjik që mbart struktura e mëposhtëme kimike?",
+    "options": [
+      "Nikotinik",
+      "Kolinergjik",
+      "Anestezik",
+      "Antimuskarinik"
+    ],
+    "image": [
+      "images\\image_118.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "49",
+    "question": "49. Cili është aktiviteti farmakologjik më i rëndësishëm që mbart struktura kimike?",
+    "options": [
+      "Antihistaminik - H2",
+      "Adrenergjik",
+      "Neuroleptik",
+      "Kolinergjik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "50",
+    "question": "50. Cili është aktiviteti farmakologjik i strukturës së treguar dhe analogëve të saj strukture:",
+    "options": [
+      "Adrenergjikë - alfa-agonistë selektiv",
+      "Adrenergjikë - alfa-agonistë dekongestant nazal",
+      "Adrenergjikë - alfa1-antagonistë jo selektiv",
+      "Adrenergjikë - beta-antagonistë dhe/ose agonistë"
+    ],
+    "image": [
+      "images\\image_13.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "51",
+    "question": "51. Përdorimi më i zakonshëm i ipratropiumit, i cili ka strukturën e treguar, është rruga:",
+    "options": [
+      "Subkutane",
+      "Intramuskulare",
+      "Inhalatore",
+      "Orale"
+    ],
+    "image": [
+      "images\\image_34.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "52",
+    "question": "52. Cila nga benzodiazepinat e mëposhtme, ka gjysmëjetë më të shkurtër: ",
+    "options": [
+      "Diazepam",
+      "Bromazepam",
+      "Flurazepam",
+      "Triazolam"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "53",
+    "question": "53. Duke pasur parasysh strukturën kimike, cili nga këto grupe paraqet ndryshimet strukturore më të mëdha nga neurotransmetuesit endogjene:",
+    "options": [
+      "Agonistët ß1 selektiv",
+      "Agonistët ß2 selektiv",
+      "Antagonistët alfa1 selektiv",
+      "Antagonistët ß2 selektiv"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "54",
+    "question": "54. Paroksetina është një bar antidepresiv, që vepron duke bllokuar: ",
+    "options": [
+      "Rikapjen e noradrenalinës dhe dopaminës",
+      "Sintezën e serotoninës",
+      "Rikapjen e serotoninës",
+      "Sintezën e dopamines"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "55",
+    "question": "55. Antitrombina III, është e domosdoshme për veprimin antikoagulant të: ",
+    "options": [
+      "Heparinës",
+      "Ëarfarinës",
+      "Dikumarolit",
+      "Fenprokumonit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "56",
+    "question": "56. Cili nga medikamentet, është antikoagulant me veprim të pavarur nga antagonizmi me vitaminën K:",
+    "options": [
+      "Dikumaroli",
+      "Heparina",
+      "Acenokumaroli",
+      "Ëarfarina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "57",
+    "question": "57. Cili nga grupet e barnave të mëposhtëm, nuk përdoret në trajtimin e skizofrenisë: ",
+    "options": [
+      "Fenotiazinat",
+      "Feniletilaminat",
+      "Tioksantenet",
+      "Butirofenonet"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "58",
+    "question": "58. Komponimi i mëposhtëm paraqet një bar:",
+    "options": [
+      "Antidepresiv",
+      "Sedativo-hipnotik",
+      "Neuroleptik",
+      "Barbiturat"
+    ],
+    "image": [
+      "images\\image_57.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "59",
+    "question": "59. Cili nga veprimet e mëposhtme, përshkruan saktë mekanizmin e veprimit të benzodiazepinave: ",
+    "options": [
+      "Bllokim i veprimit nxitës të acidit glutamik",
+      "Inhibim i enzimës GABA transaminazë",
+      "Rritje e përcjellshmërisë për klorin e ndërmjetësuar nga GABA",
+      "Rritje e aktivitetit të enzimës adenilat ciklazë"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "60",
+    "question": "60. Tregoni numrin që i korrespondon poyicionit të treguar nga shigjeta në formulën e fenotiayinës:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image": [
+      "images\\image_78.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "61",
+    "question": "61. Mekanizmi kryesor i veprimit të barnave antipsikotike me strukturë fenotiazinike, është: ",
+    "options": [
+      "Aktivizimi i receptorëve muskarinikë",
+      "Inhibimi i receptorëve D2 të dopaminës",
+      "Aktivizimi i MAO-A",
+      "Rritje e përshkueshmërisë së membranës plazmatike"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "62",
+    "question": "62. Cila nga lëndët vepruese të mëposhtme, është volatil dhe administrohet me inhalim: ",
+    "options": [
+      "Diazepami",
+      "Haloperidoli",
+      "Tiopentali",
+      "Halotani"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "63",
+    "question": "63. Cila nga lëndët vepruese të mëposhtme, paraqet aktivitetin më të ulët ekstrapiramidal: ",
+    "options": [
+      "Haloperidoli",
+      "Flufenazina",
+      "Tiotikseni",
+      "Risperidoni"
+    ],
+    "image": [
+      "images\\image_113.jpeg"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "64",
+    "question": "64. Cili nga barnat e mëposhtëm, nuk i përket grupit të antidepresivëve triciklikë: ",
+    "options": [
+      "Klomipramina",
+      "Amitriptilina",
+      "Desipramina",
+      "Fluoxetina"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "65",
+    "question": "65. Levodopa që ka strukturën e treguar, përshkon barrierën hematoencefalike pasi:",
+    "options": [
+      "Është polare",
+      "Është lipofile",
+      "Lidhet me proteinat plazmatike",
+      "Ka një transportues specifik"
+    ],
+    "image": [
+      "images\\image_148.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "66",
+    "question": "66. Cilit prej faktorëve të mëposhtëm i detzrohet kohëzgjatja e shkurtër e veprimit e metoheksitaëit që ka strukturën e treguar:",
+    "options": [
+      "Lidhjes së dobët me proteinat plazmatike",
+      "Liposolubilitetit të ulët",
+      "Metabolizimit të shpejtë",
+      "Rishpërndarjes së shpejtë nga truri në indet e tjera"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "67",
+    "question": "67. Ç’aktivitet farmakologjik zotëron struktura e mëposhme:",
+    "options": [
+      "Anestezik i përgjithshëm",
+      "Anestezik lokal",
+      "Analgjezik",
+      "Adrenergjik"
+    ],
+    "image": [
+      "images\\image_170.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "68",
+    "question": "68. Në strukturën e acidit barbiturik, shigjeta tregon pozicionin:",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "image": [
+      "images\\image_192.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "69",
+    "question": "69. Cila nga lëndët vepruese të mëposhtme, nuk përdoret si antikonvulsiv: ",
+    "options": [
+      "Acidi valproik",
+      "Amitriptilina",
+      "Vigabatrina",
+      "Karbamazepina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "70",
+    "question": "70. Fenfluramina është një bar me strukturë të ngjashme me N-etilamfetaminën. Fenfluramina përdoret si:",
+    "options": [
+      "Antiazmatik",
+      "Anoreksik",
+      "Dekognezant nazal",
+      "Deprimues i SNQ-së"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "71",
+    "question": "71. Në cilin grup farmakologjik bën pjesë struktura e mëposhtme:",
+    "options": [
+      "Adrenergjik alfa1-selektiv",
+      "Adrenergjik alfa2-selektiv",
+      "Antihistaminik H1",
+      "Antihistaminik H2"
+    ],
+    "image": [
+      "images\\image_203.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "72",
+    "question": "72. Cili është aktiviteti farmakologjik kryesor që ka struktura e treguar:",
+    "options": [
+      "Antidepresiv",
+      "Neuroleptik",
+      "Antiepileptik",
+      "Anestezik lokal"
+    ],
+    "image": [
+      "images\\image_97.png",
+      "images\\image_3.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "73",
+    "question": "73. Cili është aktiviteti farmakologjik që ka struktura e pjesshme e treguar:",
+    "options": [
+      "Anestezik lokal",
+      "Antidepresiv",
+      "Antiepileptik",
+      "Antimuskarinik"
+    ],
+    "image": [
+      "images\\image_24.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "74",
+    "question": "74. Amfetamina, që ka strukturën e treguar, depërton në sistemin qendror pasi:",
+    "options": [
+      "Ka një koeficient ndarjeje lipid/ujë të lartë",
+      "Nuk degradohet nga MAO",
+      "Nuk metabolizohet nga COMT",
+      "Konjugohet me acid glukuronik"
+    ],
+    "image": [
+      "images\\image_47.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "75",
+    "question": "75. Cili është veprimi farmakologjik që mbart struktura e pjesshme e treguar:",
+    "options": [
+      "Hipnotik",
+      "Neuroleptik",
+      "Antikonvulsiv",
+      "Antimuskarinik"
+    ],
+    "image": [
+      "images\\image_68.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "76",
+    "question": "76. Barnat e mëposhtme përdoren shpesh në terapinë e ulçerës gastrike pasi:",
+    "options": [
+      "Bllokojnë H+/K+ ATP-azën në nivel të qelizave parietale të mukozës gastrike",
+      "Janë antagonistë histaminikë H2",
+      "Janë agonistë histaminikë H2",
+      "Janë antagonistë histaminikë H1"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "77",
+    "question": "77. Cila nga lëndët ë mëposhtme, nuk bën pjesë në grupin e lëndëve psikodisleptike: ",
+    "options": [
+      "Meskalina",
+      "LSD",
+      "Dekstrometorfani",
+      "Psilocibina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "78",
+    "question": "78. Haloperidoli, është një bar me strukturë: ",
+    "options": [
+      "Fenotiazinike",
+      "Difenilbutilpiperidinike",
+      "Butirofenike",
+      "Dibenzazepinike"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "79",
+    "question": "79. Piroxikami ka strukturën e treguar. Cili nga pohimet e mëposhtme është i gbuar:",
+    "options": [
+      "Tolerohet më mirë krahasuar me aspirinën dhe indometacinën",
+      "Është në gjendje të shkaktojë dëmtime në nivel gastrointestinal",
+      "Përthithet me vështirësi në nivel gastrik pas administrimit oral",
+      "Ka gjysmëjetë të shkurtër, prandaj janë të nevojshme disa administrime në ditë"
+    ],
+    "image": [
+      "images\\image_91.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "80",
+    "question": "80. Ndarja e enatiomerëve të ibuprofenit (struktura e treguar) është e mundur, por përdorimi i secilit enantiomer më vete nuk është i shpeshtë sepse:",
+    "options": [
+      "Të dy enantiomerët kanë të njëjtin aktivitet",
+      "Izomeri më pak aktiv R in vivo shndërrohet në izomerin aktiv S",
+      "In vivo ka një racemizim të shpejtë",
+      "Dy enantiomerët janë pak të qëndrueshëm si të tillë në format farmaceutike"
+    ],
+    "image": [
+      "images\\image_137.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "81",
+    "question": "81. Toksiciteti kronik i fenacetinës (I), paracetamolit (II) dhe acetanilidit (III), i detyrohet: ",
+    "options": [
+      "Reaktivitetit të grupit -NH2 që çlirohet nga hidroliza metabolike",
+      "Reaktivitetit të grupit -OH të pranishëm ose me origjinë metabolike",
+      "Formës kinonike ose kinoniminike të përftuar nga metabolizmi oksidues",
+      "Formimit të epoksideve aromatike"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "82",
+    "question": "82. Aldosteroni, që ka strukturën e treguar, ka një veprim kryesisht:",
+    "options": [
+      "Mineralkortikoid",
+      "Glukokortikoid",
+      "Androgjenik",
+      "Estrogjenik"
+    ],
+    "image": [
+      "images\\image_159.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "83",
+    "question": "83. Etinilestradioli dhe mestranoli, të përdorur në formulimet e kontraceptivëve, ndryshojnë nga: ",
+    "options": [
+      "Kiraliteti i karbonit 17",
+      "Njëri është eteri metilik i tjetrit",
+      "Stereokimia e lidhjes midis unazave C e D",
+      "Aromaticiteti i unazës A"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "84",
+    "question": "84. Struktura e treguar i korrespondon:",
+    "options": [
+      "Estranit",
+      "Estradiolit",
+      "Mestranolit",
+      "Etinilestradiolit"
+    ],
+    "image": [
+      "images\\image_181.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "85",
+    "question": "85. Cilit grup farmakologjik i përket komponimi me strukturën e pjesshme të mëposhtme:",
+    "options": [
+      "Estrogjeneve",
+      "Progestogjeneve",
+      "Androgjenikëve",
+      "Anabolizantëve"
+    ],
+    "image": [
+      "images\\image_193.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "86",
+    "question": "86. Spironolaktoni është:",
+    "options": [
+      "Antagonist konkurues i receptorit citoplazmatik të aldosteronit",
+      "Inhibues i sintezës së aldosteronit",
+      "Agonist i receptorit të membranës së aldosteronit",
+      "Bllokues direkt i kanaleve të Na+ të membranës luminale të nefronit"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "87",
+    "question": "87. Të gjithë lëndët vepruese të mëposhtme janë glukokortikoide, me përjashtim të",
+    "options": [
+      "Deksametazonit",
+      "Triamcinolonit",
+      "Danazolit",
+      "Flunisolidit"
+    ],
+    "image": [
+      "images\\image_219.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "88",
+    "question": "88. Futja e një grupi në poyicionin 17α të streroideve androgjenë:",
+    "options": [
+      "Pakëson toksicitetin e produkteve",
+      "Mundëson përdorimin me rrugë orale",
+      "Stabilizon lidhjen me proteinat plazmatike",
+      "Rrit aktivitetin e komponimeve"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "89",
+    "question": "89. Cilit numër i korrespondon pozicioni i treguar me shigjetë në formulën e përgjithshme të steroideve?",
+    "options": [
+      "10",
+      "14",
+      "18",
+      "19"
+    ],
+    "image": [
+      "images\\image_119.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "90",
+    "question": "90. Cilit grup farmakologjik i përket komponimi me strukturën e pjesshme të mëposhtme?",
+    "options": [
+      "Estrogjeneve",
+      "Progestogjeneve",
+      "Anabolizantëve",
+      "Glukokortikoideve"
+    ],
+    "image": [
+      "images\\image_14.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "91",
+    "question": "91. Numri i atomeve të karbonit të skeletit të androstanit, është: ",
+    "options": [
+      "19",
+      "21",
+      "24",
+      "27"
+    ],
+    "image": [
+      "images\\image_37.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "92",
+    "question": "92. Glibenklamidi, me strukturën e treguar, është hipoglicemizues sepse:",
+    "options": [
+      "Rrit çlirimin e insulinës endogjene",
+      "Nxit çlirimin e glukagonit",
+      "Ndërvepron me receptorët e insulinës",
+      "Ndryshon përshkueshmërinë e qelizave ndaj glukozës"
+    ],
+    "image": [
+      "images\\image_58.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "93",
+    "question": "93. Komponimet që kanë strukturën e mëposhtme e ushtrojnë veprimet e tyre hipoglicemiyues:",
+    "options": [
+      "Duke ndërvepruar me receptorët për insulinën",
+      "Duke ndërvepruar me receptorët specifikë që inhibojnë kanalet e K+ ATP vartëse",
+      "Duke rritur katabolizmin e insulinës",
+      "Duke rritur çlirimin e glukagonit"
+    ],
+    "image": [
+      "images\\image_79.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "94",
+    "question": "94. Me cilin mekanizëm, biguanidet si metformina ushtrojnë efektin e tyre terapeutik: ",
+    "options": [
+      "Çlirojnë insulinë nga qelizat ß të pankreasit",
+      "Stimulojnë katabolizmin e glukozës në indet periferike",
+      "Aktivizojnë glukoneogenezën",
+      "Nxisin çlirimin e glukagonit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "95",
+    "question": "95. Format farmaceutike më të përhapura që përmbajnë insulinë, përbëhen nga: ",
+    "options": [
+      "Kapsula e tableta me administrim oral",
+      "Pezulli të insulinës (të komplekuara ose jo me zink) që kanë kohëzgjatje të ndryshme veprimi",
+      "Pezulli të insulinës (të komplekuara ose jo me kalçium) që kanë kohëzgjatje të ndryshme veprimi",
+      "Tretësira të insulinës të kripëzuara me zink"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "96",
+    "question": "96. Disa specialitete mjeksore të përdorura kundër diabetit përmbajnë kombinime që kanë grup funksionor sulfonamidik të kombinuar me lëndën vepruese që ka strukturën e mëpshtme, emri i të cilit është:",
+    "options": [
+      "Fenforminë",
+      "Insulinë",
+      "Sulfadiazinë",
+      "Metforminë"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "97",
+    "question": "97. TRH (hormoni çlirues i tireotropinës): ",
+    "options": [
+      "Është një hormon hipofizar",
+      "Është një hormon i tiroides",
+      "Është një hormon hipotalamik",
+      "Ka si organ shenjë tiroiden"
+    ],
+    "image": [
+      "images\\image_114.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "98",
+    "question": "98. Medroksiprogesteroni, është një bar: ",
+    "options": [
+      "Kortikosteroid",
+      "Anabolizant",
+      "Antiestrogjen",
+      "Progestagjen"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "99",
+    "question": "99. Dy strukturat e paraqitura:",
+    "options": [
+      "Janë i njëjti komponim",
+      "Janë enantiomerë",
+      "Jane izomerë gjeometrikë",
+      "Bioizosterë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "100",
+    "question": "100. Termat eutomer dhe distomer, përdoren për të karakterizuar dy barna, që janë: ",
+    "options": [
+      "Agonist mbi të njëjtin receptor",
+      "Antagonist mbi të njëjtin receptor",
+      "Izomerë konformacionalë",
+      "Izomerë optik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "101",
+    "question": "101. Dy strukturat e paraqitura më poshtë përfaqësojnë:",
+    "options": [
+      "Diasteromerë",
+      "Izomerë gjeometrikë",
+      "Bioizosterë",
+      "Izomerë konformacionalë"
+    ],
+    "image": [
+      "images\\image_149.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "102",
+    "question": "102. Ndër barnat antiemetik, cili është më efikasi për t'u përdorur për një pacient në terapi me barna citostatikë:",
+    "options": [
+      "Domperidoni",
+      "Ondansetroni",
+      "Metoklopramidi",
+      "Difenhidramina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "103",
+    "question": "103. Cili nga pohimet që lidhen me marrdhëniet strukturë-veprim të kortikosteroidëve nuk është i saktë:",
+    "options": [
+      "Esterifikimim i grupit -CH2OH zgjat gjysmëjetën e produktit",
+      "Zëvendësimi i grupit 17 alfa me një grup alkilik mundëson administrimin oral",
+      "Futja e F në pozicionin 9 alfa rrit aktivitetin",
+      "Lidhja dyfishe 1-2 rrit qëndrueshmërinë ndaj degradimit metabolik"
+    ],
+    "image": [
+      "images\\image_171.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "104",
+    "question": "104. Bllokimi i ovulacionit nga kontraceptivët oral, i detyrohet: ",
+    "options": [
+      "Frenimit të çlirimit të LH e FSH",
+      "Frenimit të çlirimit të GH",
+      "Shtimit të çlirimit të progesteronit",
+      "Shtimit të çlirimit të estrogjenit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "105",
+    "question": "105. Në cilin nga rastet e mëpodhtme gjejnë përdorim derivatet sulfonilureike:",
+    "options": [
+      "Diabet insulino vartës (Tipi I)",
+      "Diabet jo insulino vartës (Tipi II)",
+      "Rezistencë muskulare ndaj insulinës",
+      "Diabet insipidus"
+    ],
+    "image": [
+      "images\\image_183.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "106",
+    "question": "106. Cili nga pohimet e mëposhtme për paracetamolin, është i saktë: ",
+    "options": [
+      "Ka efekt të fortë antiinflamtor sepse frenon ciklooksigjenazën",
+      "Ka veprim të mirë antipiretik në pacientët që nuk përdorin dot aspirinën",
+      "Në treg nuk ka specialitet farmaceutik që ta përmbajë bashkë me aspirinën",
+      "Jep irritim të mukozës së traktit gastrointestinal"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "107",
+    "question": "107. Cili nga principet aktive të mëposhtme, në sajë të afinitetit për receptorët estrogjenik, mund të përdoret si citostatik në tumoret e gjirit:",
+    "options": [
+      "Medroksiprogesteroni",
+      "Kuinestroli",
+      "Lomustina",
+      "Tamoksifeni"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "108",
+    "question": "108. Përdorimi për një kohë të gjatë i benzodiazepinave, mund të shkaktojë: ",
+    "options": [
+      "Konvulsione",
+      "Çrregullime motorrike",
+      "Vetëm tolerancë",
+      "Tolerancë dhe vartësi"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "109",
+    "question": "109. Frenuesit e dihidrofolat reduktazës si trimetoprimi e pirimetamina, shfaqin përzgjedhshmëri të lartë në veprim, për shkak të:",
+    "options": [
+      "Vetive të ndryshme farmakokinetike",
+      "Ekzistencës së izoenzimave të dihidrofolat reduktazës në baktere e protozoarë",
+      "Ndryshimeve citologjike ndërmjet baktereve, protozoarëve, etj",
+      "Arsyeve ende të panjohura plotësisht"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "110",
+    "question": "110. Fluoksetina ndërhyn në transmetimin serotoninergjik, sepse: ",
+    "options": [
+      "Nxit receptorët 5-HT1",
+      "Nxit receptorët 5-HT2",
+      "Çliron serotoninën nga mbaresat sinaptike",
+      "Frenon rikapjen e serotoninës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "111",
+    "question": "111. Sumatriptani ndërhyn në transmetimin serotoninergjik, sepse: ",
+    "options": [
+      "Nxit receptorët 5-HT1D",
+      "Frenon sintezën e serotoninës",
+      "Frenon kapjen e serotoninës",
+      "Frenon monoamino oksidazën"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "112",
+    "question": "112. Levodopa ka veprim antiparkinsonik, sepse: ",
+    "options": [
+      "Vepron si antikolinergjik",
+      "Frenon enzimën triptofan karboksilazë",
+      "Rrit përqendrimin e dopaminës në SNQ",
+      "Frenon monoamino oksidazën"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "113",
+    "question": "113. Fenobarbitali:",
+    "options": [
+      "Frenon sintezën e GABA",
+      "Frenon rikapjen e GABA",
+      "Shton lirimin e GABA nga mbaresat parapsinaptike",
+      "Është agonist jonofor i receptorit të GABA"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "114",
+    "question": "114. Antidepresivët ciklik të gjeneratës së parë: ",
+    "options": [
+      "Janë antagonistë të receptorëve dopaminergjik ",
+      "Shfaqin një latencë klinike prej 2-3 javësh",
+      "Frenojnë sintezën e acetilkolinës",
+      "Janë agonistë të receptorëve të GABA"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "115",
+    "question": "115. Efektet e anësore më të zakonshme që lidhen me antidepresivët ciklik, janë me natyrë: ",
+    "options": [
+      "Adrenergjike",
+      "Antikolinergjike",
+      "Antidopaminergjike",
+      "GABA mimetike"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "116",
+    "question": "116. Cili nga pohimet për difenhidraminën, struktura në vijim, është i gabuar:",
+    "options": [
+      "Ka veti të spikatura sedative",
+      "Ka aktivitet të ulët antimuskarinik në traktin GI",
+      "Bën pjesë në grupin e antihistaminikëve",
+      "Është derivat i propanolaminës"
+    ],
+    "image": [
+      "images\\image_208.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "117",
+    "question": "117. Mekanizmi i veprimit të etosuksimidit (antiepileptik), mbështet në: ",
+    "options": [
+      "Bllokimin e kanaleve të Ca2+ në bërthamat talamike",
+      "Bllokimin e përkohshëm të sinapseve neuromuskulore",
+      "Aktivizimin e receptorëve ß adrenergjik",
+      "Shtimin e sintezës së neuropeptideve"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "118",
+    "question": "118. Antidepresivët triciklik, shpesh mund të shkaktojnë: ",
+    "options": [
+      "Miozë",
+      "Bradikardi",
+      "Takikardi",
+      "Diarre"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "119",
+    "question": "119. Amfetamina, është një:",
+    "options": [
+      "Aminë simpatomimetike me veprim të drejtpërdrejtë",
+      "Aminë simpatomimetike me veprim jo të drejtpërdrejtë",
+      "Anatagonist konkurues i receptorëve alfa adrenergjik",
+      "Frenues i rikapjes së monoaminave"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "120",
+    "question": "120. Nëse jemi të detyruar të zëvendësojmë diklofenakun me një nga antiinflamatorët e renditur që ka strukturë kimike të ngjashme, cili do të ishte më pak i përshtatshëm:",
+    "options": [
+      "Sulindak",
+      "Indometacin",
+      "Ibuprofen",
+      "Piroksikam"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "121",
+    "question": "121. Cila pjesë e strukturës, është përgjegjëse për veprimin tek antibiotikët ß-laktamik: ",
+    "options": [
+      "Cikli gjashtëkëndor",
+      "Cikli katërkëndor",
+      "Cikli pesëkëndor",
+      "Pjesa amidike jociklike"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "122",
+    "question": "122. Diskinezitë tarditive, shfaqen nga terapia e zgjatur me: ",
+    "options": [
+      "Antiulceroz",
+      "Antiepileptik",
+      "Antipsikotik tipik",
+      "Frenues të MAO-s"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "123",
+    "question": "123. Aktiviteti antimalarik i klorokinës, i detyrohet: ",
+    "options": [
+      "Interkelimit në ADN-në e protozoarit",
+      "Frenimit të një enzime specifike të protozoarit",
+      "Bllokimit të sistemit nervor të protozoarit",
+      "Një mekanizmi ende të pasqaruar plotësisht"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "124",
+    "question": "124. Fenfluramina, bashkëvepron me sistemin serotoninergjik: ",
+    "options": [
+      "Çliron serotoninën nga mbaresat sinaptike",
+      "Bllokon sintezën e serotoninës",
+      "Antagonizon serotoninën në receptorët 5-HT1",
+      "Ështe agonist i receptorëve 5-HT3"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "125",
+    "question": "125. Cili nga barnat e mëposhtëm, është zgjedhja e duhur në rastin e një krize epilesie: ",
+    "options": [
+      "Klonazepam",
+      "Diazepam",
+      "Haloperidol",
+      "Acid valproik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "126",
+    "question": "126. Duke krahasuar vetitë e hiosciaminës dhe atropinës, cili nga pohimet është i gabuar: ",
+    "options": [
+      "Hiosciamina ka aktivitet farmakologjik më të lartë se atropina",
+      "Në specialitetet mjekësore gjen më shumë atropinë se hiosciaminë",
+      "Hiosciamina është forma racemike e atropinës",
+      "Atropina dhe hiosciamina kanë veti spasmolitike"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "127",
+    "question": "127. Përparisitë që paraqet esteri i dzfishtë në strukturën e pivamicilinës, në krahasim me esterin e thjeshtë janë:",
+    "options": [
+      "Hidrolizë e shpejtë dhe e plotë pas përthithjes",
+      "Aktivitet farmakologjik i shtuar i diesterit",
+      "Lipofilitet i shtuar",
+      "Efekte anësore të ulta"
+    ],
+    "image": [
+      "images\\image_98.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "128",
+    "question": "128. Karbidopa përdoret në mjekimin e Parkinsonit, sepse: ",
+    "options": [
+      "Pakëson katabolizmin e dopaminës cerebrale",
+      "Frenon rikapjen neuronale të dopaminës cerebrale",
+      "Frenon shëndrrimin e levodopës në dopaminë në nivele periferike",
+      "Shton çlirimin e dopaminës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "129",
+    "question": "129. Antidepresivët triciklik e arrijnë efektin terapeutik, duke: ",
+    "options": [
+      "Nxitur në mënyrë të drejtpërdrejtë receptorët muskarinik ",
+      "Bllokuar rikapjen e noradrenalinës dhe serotoninës",
+      "Stabilizuar membranat qelizore",
+      "Bllokuar sintezën e dopaminës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "130",
+    "question": "130. Desimipramina klasifikohet si: ",
+    "options": [
+      "Neuroleptik",
+      "Antihistaminik",
+      "Antidepresiv",
+      "Anoreksik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "131",
+    "question": "131. Cili nga barnat e mëposhtëm, aktivizon në mënyrë përzgjedhëse receptorët muskarinik: ",
+    "options": [
+      "Betanekoli",
+      "Neostigmina",
+      "Fiziostigmina",
+      "Suksinilkolina"
+    ],
+    "image": [
+      "images\\image_4.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "132",
+    "question": "132. Cila nga lëndët vepruese të mëposhtme, pakëson takikardinë: ",
+    "options": [
+      "Propranololi",
+      "Izoprenalina",
+      "Ekonazoli",
+      "Cimetidina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "133",
+    "question": "133. Aktiviteti antiinflamator i aspirinës, i detyrohet faktit që: ",
+    "options": [
+      "Shkatërron prostaglandinat",
+      "Frenon në mënyrë të kthyeshme ciklooksigjenazën",
+      "Provokon më shumë se një nga efektet e përmendura",
+      "Rrit përqendrimin e tromboksanit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "134",
+    "question": "134. 6-Glukuronil derivati i morfinës, është një nga metabolitet krzesorë të saj. Cili nga pohimet e mëposhtme është i vërtetë?",
+    "options": [
+      "Ai është pa veprim",
+      "Ka aktivitet të ngjashëm me morfinën",
+      "Është një metabolit i morfinës në sasi të papërfillshme",
+      "Është pa aktivitet, por është toksik"
+    ],
+    "image": [
+      "images\\image_25.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "135",
+    "question": "135. Guanfacina, është një antihipertensiv që: ",
+    "options": [
+      "Stimulon receptorët alfa2 në SNQ",
+      "Bllokon receptorët alfa1 në vazat rezistente",
+      "Shton katabolizmin e noradrenalinës",
+      "Frenon rikapjen e noradrenalinës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "136",
+    "question": "136. Desimipramina, me strukturën kimike të paraqitur, klasifikohet si një antidepresiv:",
+    "options": [
+      "Që frenon rikapjen e serotoninës",
+      "Që frenon enzimën MAO",
+      "Triciklik me grup aminik primar",
+      "Triciklik me grup aminik sekondar"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "137",
+    "question": "137. Struktura e mëposhtme paraqet një lëndë vepruese që ka veprin:",
+    "options": [
+      "Antikonvulsant",
+      "Antihistaminik",
+      "Notropik",
+      "Anestezik lokal"
+    ],
+    "image": [
+      "images\\image_48.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "138",
+    "question": "138. Efekti anësor më i rëndësishëm, që shkatojnë barnat antipsikotik është: ",
+    "options": [
+      "Atazia",
+      "Nauza",
+      "Diskinezia tarditive",
+      "Ulja e pragut për konvulsionet"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "139",
+    "question": "139. Sumatriptani, është një lëndë vepruese: ",
+    "options": [
+      "Anoreksike",
+      "Antidepresiv i gjeneratës së dytë",
+      "Antimigretike",
+      "Antidod i etanolit"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "140",
+    "question": "140. Cili nga pohimet e mëposhtme për trazodonin, nuk është i vërtetë: ",
+    "options": [
+      "Ka veti sedative",
+      "Në disa raste shkakton hipotension",
+      "Nuk ka ngjashmëri strukturore me fenelzinën",
+      "Është frenues specifik i MAO-s"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "141",
+    "question": "141. Cili nga antibiotikët e mëposhtëm, përftohet edhe sot nëpërmjet fermentimit: ",
+    "options": [
+      "Demeklociklina",
+      "Ampicilina",
+      "Minociklina",
+      "Cefaleksina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "142",
+    "question": "142. Neuroleptikët ndërhyjnë në sistemin dopaminergjik: ",
+    "options": [
+      "Frenojnë rikapjen e dopaminës në nivel qëndror",
+      "Nxisin sekretimin e dopaminës",
+      "Bllokojnë receptorët e tipit D2 dopaminik",
+      "Frenojnë katabolizmin e dopaminës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "143",
+    "question": "143. Kloruri i hekza- dhe dekametonium, janë kripëra që përbëhen nga një varg i gjatë alkilik dhe dy grupe amoniumi kuaternar në skaje. Këto lëndë:",
+    "options": [
+      "Veprojnë si antagonistë të receptorëve nikotinik",
+      "Ndërveprojnë me receptorët muskarinik",
+      "Pësojnë një oksidim të shpejtë metabolik",
+      "Kanë gjysmëjetë plazmatike të gjatë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "144",
+    "question": "144. Naloksoni përdoret në: ",
+    "options": [
+      "Trajtimin e depresionit ",
+      "Trajtimin e hipertensionit",
+      "Parandalimin e sindromës së abstinencës nga morfina",
+      "Trajtimin e një rasti mbidozimi të heroinës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "145",
+    "question": "145. Cilit numër i korrespondon poyicioni i treguar nga shigjeta:",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "image": [
+      "images\\image_69.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "146",
+    "question": "146. Cili nga efektet anësore të mëposhtme, mund të shkaktohet nga acidi valproik: ",
+    "options": [
+      "Nekrozë hepatike",
+      "Insuficencë renale akute",
+      "Insuficencë kardiake",
+      "Insuficencë mbiveshkore akute"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "147",
+    "question": "147. Qëndrueshmëria e penicilinave në mjedis acid, rritet nga: ",
+    "options": [
+      "Grupi acilamidik hidrofil në pozicionin 6",
+      "Esterifikimi i grupit karboksilik në pozicionin 3",
+      "Krijimi i kripërave me tretshmëri të ulët",
+      "Mbetjet acilike që kanë grupe elektrondhënëse"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "148",
+    "question": "148. Cila nga lëndët vepruese të mëposhtme, nuk i përket kategorisë antidepresivë: ",
+    "options": [
+      "Fluoksamina",
+      "Klorpromazina",
+      "Nortriptilina",
+      "Klomipramina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "149",
+    "question": "149. Duke pasur parash strukturën, çfarë veprimi shfaq kjo lëndë vepruese?",
+    "options": [
+      "Spazmolitike",
+      "Anestezike lokale",
+      "Antimeteorike",
+      "Laksative"
+    ],
+    "image": [
+      "images\\image_92.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "150",
+    "question": "150. Cila nga karakteristikat e mëposhtme është e rëndësishme, për veprimin e antibiotikëve që frenojnë D-alaninë peptidazën:",
+    "options": [
+      "Një strukturë tetraciklike",
+      "Grupi karboksilik",
+      "Cikli ß laktamik",
+      "Grupi acilamidik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "151",
+    "question": "151. Veprimi hipertensiv i adrenalinës mund të shndërrohet në hipotensiv, nëse më parë administrojmë:",
+    "options": [
+      "Prazosinë",
+      "Propranololin",
+      "Atropinë",
+      "Rezerpinë"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "152",
+    "question": "152. Veprimi antiinflamator i indometacinës, i detyrohet: ",
+    "options": [
+      "Rritjes së përqendrimit të prostaglandinave",
+      "Krijimit të lidhjes amidike me ciklooksigjenazën",
+      "Frenimit në mënyrë të kthyeshme të ciklooksigjenazës",
+      "Veprimit direkt mbi tromboksanin duke i zvogëluar përqendrimin"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "153",
+    "question": "153. Veprimi antipiretik i antiinflamatorëve jo steroidikë, vjen nga: ",
+    "options": [
+      "Shpërndarja e nxehtësisë nga vazodilatacioni në lëkurë",
+      "Frenimi i sintezës së prostaglandinave në disa rajone cerebrale",
+      "Efekti stabilizues mbi membranat neuronale",
+      "Bllokimi i receptorëve 5 HT2 në hipotalamus"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "154",
+    "question": "154. Cili nga pohimet e mëposhtme për klopentiksolin është i gabuar:",
+    "options": [
+      "Është derivat tioksantinik",
+      "Është derivat piperazinik",
+      "Është deprimues i SNQ",
+      "Është stimulues i SNQ"
+    ],
+    "image": [
+      "images\\image_138.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "155",
+    "question": "155. Labetololi (struktura në vijim) përmban në yinxhirin e tik:",
+    "options": [
+      "Tre qendra kirale (CHOH, NH, CHCH3)",
+      "Dy qendra kirale (CHOH,NH)",
+      "Dy qendra kirale (CHOH, CHCH3)",
+      "Vetëm një qendër kirale (CHCH3)"
+    ],
+    "image": [
+      "images\\image_160.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "156",
+    "question": "156. Ondansetroni është:",
+    "options": [
+      "Antagonist i receptorëve sigma",
+      "Alkaloid i Segale cornuta",
+      "Anatagonist i receptorëve 5 HT3",
+      "Myorelaksues periferik"
+    ],
+    "image": [
+      "images\\image_174.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "157",
+    "question": "157. Fenilefrina (struktura e paraqitur), aplikohet në mukozën e hundës:",
+    "options": [
+      "Për të bllokuar receptorët histaminik",
+      "Për të bllokuar receptorët ß adrenergjik",
+      "Për të shkaktuar vazodilatacion",
+      "Për të shkaktuar vazokonstriksion"
+    ],
+    "image": [
+      "images\\image_199.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "158",
+    "question": "158. Duke i konsideruar të gjithë kushtet e tjera të ngjashme, në cilin rast do të kishim një përthithje më të mirë të një barbiturati në traktin gastrointestinal:",
+    "options": [
+      "pH 7.4",
+      "pH 6.0",
+      "pH 2.0",
+      "pH 8.0"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "159",
+    "question": "159. Klonidina vepron si agonist i receptorëve alfa2 adrenergjik dhe shkakton: ",
+    "options": [
+      "Shtim të perilstatikës intestinale",
+      "Pakësim të aktivitetit qendror simpatik",
+      "Shtim të kontraktimit të miokardit",
+      "Bronkokostriksion"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "160",
+    "question": "160. Në cilën klasë mund të klasifikohet bar-i me strukturën e dhënë:",
+    "options": [
+      "Kontaceptiv hormonal",
+      "Antihistaminik",
+      "Benzodiazepinë orale",
+      "Hipoglicemik oral"
+    ],
+    "image": [
+      "images\\image_220.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "161",
+    "question": "161. Antibiotikët aminoglikozidik kur administrohen në rrugë orale, përdoren për: ",
+    "options": [
+      "Infeksione të traktit respirator",
+      "Infeksione renale",
+      "Tuberkuloz",
+      "Infeksione intestinale"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "162",
+    "question": "162. Cila nga lëndët e mëposhtme nuk bashkëvepron me receptorët GABAA: ",
+    "options": [
+      "Barbituratet",
+      "Benzodiazepinat",
+      "Alkaloidet e opiumit",
+      "Bikukulinat"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "163",
+    "question": "163. Cila nga lëndët e mëposhtme nuk duhet admininstruar, në një pacient asmatik: ",
+    "options": [
+      "Atropina",
+      "Sotaloli",
+      "Adrenalina",
+      "Noradrenalina"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "164",
+    "question": "164. Barnat antihipertensiv me veprim qendror: ",
+    "options": [
+      "Antagonizojnë receptorët muskarinik",
+      "Stimulojnë receptorët ß adrenergjik",
+      "Stimulojnë receptorët alfa1",
+      "Stimulojnë receptorët alfa2 presinaptik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "165",
+    "question": "165. Tioridazina nuk shkakton parkinsonizëm, sepse: ",
+    "options": [
+      "Ka efekt të spikatur alfa1 bllokues",
+      "Ka aktivitet antimuskarinik intrinsik",
+      "Ka kapacitet për të aktivizuar MAO-n",
+      "Ka më pak aftësi të antagonizojë receptorët D1"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "166",
+    "question": "166. Cila nga klasat e mëposhtme, nuk ka efekt antidepresiv: ",
+    "options": [
+      "Neuroleptikët",
+      "Kripërat e litiumit",
+      "Frenuesit e rikapjes së serotoninës",
+      "Analogët e amitriptilinës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "167",
+    "question": "167. Një specialitet mjekësor përmban paracetamol, fenilpropanolaminë, e klorfenaminë, pra përmban lëndë me veti:",
+    "options": [
+      "Antipiretike",
+      "Antimuskarinike",
+      "Antibakterike",
+      "Antivirale"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "168",
+    "question": "168. Anestezikët e përgjithshëm, me përjashtim të atyre me administrim endovenoz, kanë të përbashkët:",
+    "options": [
+      "Analogjinë strukturore",
+      "Shpërbashkohen lehtë në jone",
+      "Mungesën e atomeve halogjene",
+      "Volatilitetin e lartë"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "169",
+    "question": "169. Nëse do të duhet të zëvendësojmë sulindakun me një analog që ka ngjashmëri strukturore, do të zgjidhnim:",
+    "options": [
+      "Diklofenak",
+      "Indometacin",
+      "Ibuprofen",
+      "Flurbiprofen"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "170",
+    "question": "170. Cila nga gjendjet e mëposhtme, shkatohet nga një antagonist jo përzgjedhës i receptorëve ß adrenergjik:",
+    "options": [
+      "Takikardi sinusale",
+      "Hiperglicemi",
+      "Bronkokonstriksion",
+      "Hipertension"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "171",
+    "question": "171. Cili nga pohimet e mëposhtme për glukagonin, është i vërtetë: ",
+    "options": [
+      "Është një lëndë me natyrë glucidike",
+      "Është një lëndë me natyrë peptidike",
+      "Përdoret në urgjencën hiperglicemike",
+      "Pakëson formimin e glukozës në gjak"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "172",
+    "question": "172. Cili nga indikacionet e mëposhtme për karbamazepinën, nuk është i saktë: ",
+    "options": [
+      "Epilepsitë Gran mal",
+      "Nevralgji të trigemin",
+      "Aritmi supraventrikulare",
+      "Shqetësime bipolare të humorit"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "173",
+    "question": "173. Zëvendësimi i grupit aminik te karbutamidi (I) me grupin metilik te tulbotamidi (II) rezultoi i vlefshëm sepse:",
+    "options": [
+      "Eliminon aktivitetin antibakteror",
+      "Fuqizon aktivitetin hipoglicemik",
+      "Përmirëson farmakokinetikën",
+      "Pengon metabolizimin e shpejtë"
+    ],
+    "image": [
+      "images\\image_120.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "174",
+    "question": "174. Ndër karakteristikat kimike dhe fiziko-kimike që përmenden më poshtë, cila ndeshet më shpesh tek barnat anestezik të përgjithshëm:",
+    "options": [
+      "Shpërbashkim të shpejtë jonik",
+      "Koeficient të ndarjes vaj/ujë të lartë",
+      "Shkallë viskoziteti të lartë",
+      "Peshë molekulare të madhe"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "175",
+    "question": "175. Cili nga pojimet lidhur me marrdhëniet strukturë-veprim të sulfonamideve është i gabuar:",
+    "options": [
+      "Aktiviteti varet nga pKa e hidrogjenit tek azoti N1",
+      "Azoti N1 mund të jetë terciar",
+      "Azoti N4 mund të zëvendësohet nga grupe të hidrolizueshme",
+      "Cikli i benzenit nuk mund të zëvendësohet me cikle të tjera"
+    ],
+    "image": [
+      "images\\image_15.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "176",
+    "question": "176. Antimetabolitët antiviral, veprojnë në: ",
+    "options": [
+      "Virusin jashtëqelizor",
+      "Fazën e depërtimit të virusit në qelizë",
+      "Fazën e shumimit të virusit",
+      "Sintezën e proteinave virale"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "177",
+    "question": "177. Strukturat e pjesshme të paraqitura i përkasin anestezikëve lokal. Cila nga lëndët e përdorura ka strukturë të ngjashme me (I)?",
+    "options": [
+      "Bupivakaina",
+      "Prokaina",
+      "Benzokaina",
+      "Tetrakaina"
+    ],
+    "image": [
+      "images\\image_38.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "178",
+    "question": "178. Strukturat e pjesshme të paraqitura i përkasin anestezikëve lokal. Cila nga lëndët e përmendura ka strukturë të ngjashme me (II)?",
+    "options": [
+      "Mepivakaina",
+      "Lidokaina",
+      "Tetrakaina",
+      "Prilokaina"
+    ],
+    "image": [
+      "images\\image_59.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "179",
+    "question": "179. Cili nga pohimet që lidhet me marrdhëniet strukturë veprim të kinoloneve të gjeneratës së fundit është i gabuar:",
+    "options": [
+      "Azoti i pozicionit 1 mund të zëvendësohet me grupe të përshtatshëm arilik",
+      "Zëvendësim i duhur është edhe futja e një cikli të azotuar në pozicioni 7",
+      "Lidhja dyfishe në 2-3 mund të zëvendësohet me një lidhje të ngopur",
+      "Azoti i pozicionit 1 dhe karboni në 8 mund të bashkohen me një cikël"
+    ],
+    "image": [
+      "images\\image_80.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "180",
+    "question": "180. Lënda vepruese e paraqitur në figurë përdoret si:",
+    "options": [
+      "Diuretik",
+      "Sulfamidik",
+      "Hipoglicemik oral",
+      "Antiinflamator"
+    ],
+    "image": [
+      "images\\image_121.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "181",
+    "question": "181. Përdorimi terapeutik i nitrofuraneve antibakterore, është ulur për shkak të: ",
+    "options": [
+      "Toksicitetit kronik",
+      "Toksicitetit akut",
+      "Zbulimit të barnave më efikas",
+      "Vështirësive gjatë sintezës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "182",
+    "question": "182. Cili nga të mëposhtmit, nuk paraqet një efekt anësor të anestezikëve lokal që janë në përdorim: ",
+    "options": [
+      "Nistagem",
+      "Tremor",
+      "Hipertension",
+      "Aritmi"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "183",
+    "question": "183. Cila nga karakteristikat lidhur me vargun acilik në pozicionin 6 të penicilinave, favorizon veprimin mbi bakteret Gram-negative:",
+    "options": [
+      "Hidrofiliteti",
+      "Lipofiliteti",
+      "Efekti elektronodhënës",
+      "Efekti elektronotërheqës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "184",
+    "question": "184. Koeficienti i ulët i shpërndarjes gjak/gaz, i anestezikëve të përgjithshëm volatil:",
+    "options": [
+      "Përshpejton induktimin e anestezisë",
+      "Ngadalëson induktimin e anestezisë",
+      "Rrit kohëzgjatjen e anestezisë",
+      "Pakëson kohëzgjatjen e anestezisë"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "185",
+    "question": "185. Pergjigju pyetjes me poshte:",
+    "options": [
+      "Në epilepsitë e tipit mioklonike",
+      "Në aritmitë kardiake",
+      "Si antiemetik në terapitë me cisplatin",
+      "Në obezitet"
+    ],
+    "image": [
+      "images\\image_150.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "186",
+    "question": "186. Cili nga përdorimet i korrespondon gliklazidit me strukturë kimike të paraqitur më poshtë:",
+    "options": [
+      "Antiinflamator",
+      "Hipoglicemik oral",
+      "Urikosurik",
+      "Antibakterik"
+    ],
+    "image": [
+      "images\\image_163.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "187",
+    "question": "187. Cili nga këta anestezikë të përgjithshëm, nuk mund të administrohet me rrugë endovenoze:",
+    "options": [
+      "Metoheksitali",
+      "Ketamina",
+      "Ciklopropani",
+      "Tiopentali"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "188",
+    "question": "188. Ndër metabolitët sulfonamidik, ai që paraqet efekte toksike më të mëdha, është: ",
+    "options": [
+      "Derivati N1 - glukuronik",
+      "Derivati N4- glukuronik",
+      "Derivati N4 - acetilik",
+      "Derivati N1- sulfatik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "189",
+    "question": "189. Naloksoni, është një bar: ",
+    "options": [
+      "Antikoagulant",
+      "Antidod i etanolit",
+      "Halucinogjen i përftuar me sintëzë",
+      "Antagonist i receptorëve opoid"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "190",
+    "question": "190. Mekanizmi i veprimit të kinoloneve, konsiston në: ",
+    "options": [
+      "Interkelimin e molekulës në ADN bakterore",
+      "Bllokimin e ARN- sintetazës që varet nga ADN",
+      "Dizgregimin e membranës qelizore të baktereve",
+      "Formimin e komplekseve me ADN topoizomerazën bakterore"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "191",
+    "question": "191. Alkilimi i –NH2 me një grup izopropilik në strukturën e izoniazidit:",
+    "options": [
+      "Rrit aktivitetin antituberkular",
+      "Pakëson efektet toksike",
+      "Nxit efektet antidepresive",
+      "Lehtëson përthithjen orale"
+    ],
+    "image": [
+      "images\\image_184.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "192",
+    "question": "192. Veprimi antiepileptik i fenitoinës, i detyrohet: ",
+    "options": [
+      "Përforcimit të lidhjes GABA receptor A",
+      "Bllokimit të kanaleve potencial -vartëse të Ca2+",
+      "Bllokimit të kanale të Na+",
+      "Rritjes së përcjellshmërisë për Cl- në kanalet përkatëse"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "193",
+    "question": "193. Cili nga mekanizmit e veprimt të përshkruar, nuk ka lidhje me kafeinën: ",
+    "options": [
+      "Bllokimi i receptorëve A1 të adenozinës",
+      "Bllokimi i recptorëve A2 të adenozinës",
+      "Bllokimi i enzimës MAO",
+      "Frenim i fosfodiesterazave"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "194",
+    "question": "194. Esterifikimi i steroidit me një grup karboksilik të acidit suksinik, sikurse tregohet në figurë, ka si qëllim:",
+    "options": [
+      "Favorizimin e kalimit të barrierës hematoencefalike",
+      "Zgjatjen e vargut anësor që të ngjaj me kolesterolin",
+      "Transformimin e steroidit nga një lëndë e lëngët në të ngurtë",
+      "Rritjen e tretshmërisë në ujë të molekulës"
+    ],
+    "image": [
+      "images\\image_209.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "195",
+    "question": "195. Kotrimiksazoli përbëhet nga: ",
+    "options": [
+      "Sulfometoksazoli e trimetoprimi ",
+      "Sulfamoli e trimetoprimi",
+      "Tetrazoprima e sulfadiazina",
+      "Pirimetamina e sulfaleni"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "196",
+    "question": "196. Futja e një grupi –CF3 tek unaza kinolinike e antimalarikëve (si meflokina) ka si qëllim kryesor:",
+    "options": [
+      "Përmirësimin e biodisponibilitetit",
+      "Pakësimin e efekteve toksike",
+      "Mbrotjen nga reaksionet metabolike",
+      "Rritjen e lipofilitetit"
+    ],
+    "image": [
+      "images\\image_99.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "197",
+    "question": "197. Cili nga barnat e mëposhtëm, vepron si frenues i dekarboksilazës periferike: ",
+    "options": [
+      "Piracetami",
+      "Muscimoli",
+      "Benserazidi",
+      "Hidralazina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "198",
+    "question": "198. Transformimi i tolbutamidit (I) në klorbutamid (II) nëpërmjet zëvendësimit të grupit metilik në pozicionin 4 me klor:",
+    "options": [
+      "Rrit aktiviteti hipoglicemik",
+      "Bën të mundur përdorimin oral",
+      "Rrit gjysmëjetën plazmatike",
+      "Pakëson efektet anësore"
+    ],
+    "image": [
+      "images\\image_5.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "199",
+    "question": "199. Pjesa më e madhe e antimetabolitëve antiviral janë aktiv vetëm si estere të acidit fosforik, por nuk mund të administrohen në këtë formë, sepse:",
+    "options": [
+      "Janë shumë toksikë",
+      "Nuk përthithen mirë",
+      "Janë të vështirë për t'u sintetizuar",
+      "Nuk mund të depërtojnë në qelizë"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "200",
+    "question": "200. Cila nga lëndët e mëposhtme, nuk konsiderohet halucinogjene: ",
+    "options": [
+      "Glutetimidi",
+      "Psilocibina",
+      "Meskalina",
+      "Skopolamina"
+    ],
+    "image": []
+  },
+  {
+    "index": "201",
+    "question": "201. Cili nga efektet e mëposhtme anësore, kufizon përdorimin e klozapinës: ",
+    "options": [
+      "Nekroza hepatike",
+      "Insuficienca renale",
+      "Granulocitopenia",
+      "Ototoksiciteti"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "202",
+    "question": "202. Frenuesit e MAO kanë veprim antidepresiv. Cili nga të mëposhtmit nuk bën pjesë në këtë grup:",
+    "options": [
+      "Izokarboksazidi",
+      "Maprotilina",
+      "Moklobemidi",
+      "Tranilcipramina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "203",
+    "question": "203. Cila nga substancat e mëposhtme, është më efikase për pakësimin e krizave të abstinencës te herinomanët:",
+    "options": [
+      "Morfina",
+      "Kodeina",
+      "Acetaminofeni",
+      "Naloksoni"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "204",
+    "question": "204. Ndër antipsikotikët ka përfaqësues me efekte ekstrapiramidale të ulta sikurse struktura e paraqitur. Kjo i detyrohet:",
+    "options": [
+      "Përzgjeshmërisë së lartë për receptorët D2",
+      "Aktivitetit të ulët parasimpatomimetik",
+      "Afinitetit të ulët për receptorët D2",
+      "Afinitetit të ulët për receptorët 5 HT2"
+    ],
+    "image": [
+      "images\\image_28.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "205",
+    "question": "205. Cila nga karakteristikat e mëposhtme është më e rëndësishmja për veprimin e acidit flufenamik?",
+    "options": [
+      "Zëvendësimi në para tek unaza antranilike me grupe elektronotërheqës",
+      "Zëvendësimi në pozicionin 3 në unazën aromatike",
+      "Zëvendësimi në pozicionin 4 në unazën aromatike",
+      "Zëvendësimi në pozicionin 2 në unazën aromatike"
+    ],
+    "image": [
+      "images\\image_49.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "206",
+    "question": "206. Kontraceptivët kryesisht përmbajnë:",
+    "options": [
+      "Dy estrogjenë me kohëzgjatje të ndryshme veprimi",
+      "Dy progestogjenë me kohëzgjatje të ndryshme veprimi",
+      "Një estrogjen dhe një progestogjen",
+      "Një gonadotropinë dhe një estrogjen"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "207",
+    "question": "207. Një lëndë vepruese me strukturën e mëposhtme, vepron si:",
+    "options": [
+      "Dezifektant mukozash",
+      "Antitumoral",
+      "Antimikrobik okular",
+      "Dekongjestionues nazal"
+    ],
+    "image": [
+      "images\\image_70.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "208",
+    "question": "208. Cila nga karakteristikat për penicilinën G, nuk është e vërtetë: ",
+    "options": [
+      "Vepron kryesisht kundër baktereve Gram pozitive",
+      "Degradohet shpejt në mjedis acid",
+      "Nuk mund të jepet me doza që kalojnë 4g në ditë",
+      "Nuk është rezistente ndaj penicilazave"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "209",
+    "question": "209. Cila nga alternativat nuk përbën një efekt anësor, që vërehet gjatë përdorimit të zgjatur të hormoneve glukokortikoide:",
+    "options": [
+      "Oseteoporoza",
+      "Hipoglicemia",
+      "Imunosupresioni",
+      "Hipotrofi kortikosurenale"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "210",
+    "question": "210. Metisergidi dhe pizotifeni janë antagonist të receptorëve serotoninergjik, që përdoren në: ",
+    "options": [
+      "Parkinson",
+      "Epilepsi",
+      "Migrenë",
+      "Depresion"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "211",
+    "question": "211. Prociklidina përdoret si: ",
+    "options": [
+      "Hipokolesterolemik",
+      "Antihipertensiv me veprim qendror",
+      "Antiparkisonik",
+      "Sedativ-hipnotik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "212",
+    "question": "212. Antibiotikët polienik si nistatina e amfotericina, veprojnë duke: ",
+    "options": [
+      "Bymyer membranën e qelizave",
+      "Bllokuar sintezën e steroleve membranore",
+      "U integruar në sterolet membranore dhe duke krijuar çarje",
+      "Modifikuar transportin e glukozës nëpërmjet membranës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "213",
+    "question": "213. Cila nga enzimat e mëposhtme, merr pjesë në formimin e dopaminës në organizëm: ",
+    "options": [
+      "KOMT",
+      "Histidin karboksilaza",
+      "Dopa dekarboksilaza",
+      "O-acetiltransferaza"
+    ],
+    "image": [
+      "images\\image_100.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "214",
+    "question": "214. Flumazenili:",
+    "options": [
+      "Pakëson nivelin e HDL në plazëm",
+      "Përdoret në terapinë e detoksifikimit nga benzodiazepinat",
+      "Është antagonist i receptorëve D3 të dopaminës",
+      "Përdoret në insufiçencën miokardiake"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "215",
+    "question": "215. Cili nga pohimet e mëposhtme është i vërtetë, përsa i përket deprenilit dhe selegilinës: ",
+    "options": [
+      "Deprenili është metaboliti aktiv i selegilinës",
+      "Deprenili është frenues specifik i MAO-A",
+      "Selegilina është frenues specifik i MAO-B",
+      "Ata përfaqësojnë lëndë të ndryshme"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "216",
+    "question": "216. Mepivakaina është një anestezik lokal, që vepron duke: ",
+    "options": [
+      "Bllokuar kanalet e Ca2+",
+      "Hapur kanalet për K+",
+      "Bllokuar kanalet për Na+",
+      "Modifikuar konformacionin e receptorëve alfa"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "217",
+    "question": "217. Cila nga lëndët e mëposhtme, shkakton ndryshime të sintezës ose metabolizmit të acideve nukleike të qelizës bakterore:",
+    "options": [
+      "Nitroimidazoli",
+      "Dapsoni",
+      "Trimetoprimi",
+      "Penicilina"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "218",
+    "question": "218. Cili nga pohimet e mëposhtme për sulpiridin (struktura kimike e paraqitur), është i gabuar:",
+    "options": [
+      "Është një bar antipsikotik me strukturë benzamidike",
+      "Është një bar antipsikotik me veprim të ulët klinik",
+      "Nuk lidhet shumë me proteinat plazmatike",
+      "Përdoret në trajtimin e parkinsonizmit të nxitur nga neuroleptikët"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "219",
+    "question": "219. Ndër cefalosporinat e gjeneratës së tretë, cila mund të administrohet me rrugë orale: ",
+    "options": [
+      "Ceftazidim",
+      "Ceftriakson",
+      "Cefiksim",
+      "Cefotaksim"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "220",
+    "question": "220. Gentamicina vepron:",
+    "options": [
+      "Në nënnjësinë ribozomike 30S",
+      "Në membranën citoplazmatike",
+      "Në acidet nukleike të qelizës bakterore",
+      "Në metabolizmin energjitik të qelizës bakterore"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "221",
+    "question": "221. Vankomicina vepron:",
+    "options": [
+      "Tek acidet nukleike të qelizës bakterore",
+      "Në membranën citoplazmatike",
+      "Në sintezën e proteinave në fazën ribozomike",
+      "Në ndërtimin e murit qelizor te qelizave bakterore"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "222",
+    "question": "222. Cila nga klasat e mëposhtme, shfaq veti hipoglicemike të theksuara: ",
+    "options": [
+      "Sulfonilureikët (Gjenerata I dhe II)",
+      "Benzotiadiazinat",
+      "Antagonistët H2",
+      "ß2 - Agonistët"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "223",
+    "question": "223. Cefalosporinat me administrim i.m ose i.v gjenden më shumë, në gjeneratën e: ",
+    "options": [
+      "Parë",
+      "Dytë",
+      "Parë dhe të dytë",
+      "Dytë dhe të tretë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "224",
+    "question": "224. Cila është rruga kryesore, për administrimin e biguanidikëve dhe sulfonilureikëve: ",
+    "options": [
+      "Intramuskulare",
+      "Orale",
+      "Endovenoze",
+      "Sublinguale"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "225",
+    "question": "225. Cilat nga lëndët e mëposhtme, nuk veprojnë me receptorët GABA-A: ",
+    "options": [
+      "Barbituratet",
+      "Benzodiazepinat",
+      "Alkaloidet e opiumit",
+      "Zolpidemat"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "226",
+    "question": "226. Barnat oksitocikë:",
+    "options": [
+      "Frenojnë perilstatikën e intestinit",
+      "Stimulojnë perilstatikën e intestinit",
+      "Frenojnë tkurrjet e uterusit",
+      "Nxisin tkurrjet e uterusit"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "227",
+    "question": "227. Cila nga lëndët e mëposhtme, vepron duke frenuar ose modifikuar sintezën proteinike në fazën ribozomike:",
+    "options": [
+      "Trimetoprimi",
+      "Dapsoni",
+      "Kloramfenikoli",
+      "Penicilina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "228",
+    "question": "228. Barnat biguanidikë, e realizojnë veprimin e tyre nëpërmjet mekanizmit: ",
+    "options": [
+      "Çlirojnë insulinën nga qelizat ß-pankreatike",
+      "Nxisin katabolizmin e glukozës në indet periferike",
+      "Nxisin glukoneogjenezën",
+      "Nxisin çlirimin e glukagonit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "229",
+    "question": "229. Pivampicilina, është një promedikament i: ",
+    "options": [
+      "Benzilpenicilinës",
+      "Ampicilinës",
+      "Fenoksimetilpenicilinës",
+      "Propicilinës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "230",
+    "question": "230. Nitrazepam, është një bar: ",
+    "options": [
+      "Antidepresiv",
+      "Antihistaminik",
+      "Antiepileptik",
+      "Hipnotik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "231",
+    "question": "231. Rifampicinat, janë frenues të: ",
+    "options": [
+      "ADN sintetazës",
+      "ARN sintetazës",
+      "ADN xhirazës",
+      "ARN transkiptazës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "232",
+    "question": "232. Cili është hidrokarburi tetraciklik nga i cili rrjedhin tetraciklinat:",
+    "options": [
+      "Ciklipentanhidrofenantreni",
+      "Naftaleni",
+      "Fenantreni",
+      "Naftaceni"
+    ],
+    "image": [
+      "images\\image_139.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "233",
+    "question": "233. Kotrimoksazoli:",
+    "options": [
+      "Bllokon formimin e peptidoglikanit",
+      "Frenon dyhidropteroat sintetazën",
+      "Bllokon në dy stade formimin e acidit tetrahidrofolik",
+      "Frenon sintezën proteinike"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "234",
+    "question": "234. Që të ruajnë veprimin antibakterik, penicilinat duhet të ruajnë: ",
+    "options": [
+      "Integritetin e unazës tiazolidinike",
+      "Vargun anësor në pozicionin 3",
+      "Unazën beta laktamike",
+      "Grupin -OH në vend të radikalit R"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "235",
+    "question": "235. Amfotericina B, ka strukturë: ",
+    "options": [
+      "Policiklike",
+      "Laktamike",
+      "Monociklike me lidhje dyfishe",
+      "Makrociklike me lidhje dyfishe të konjuguara"
+    ],
+    "image": [
+      "images\\image_154.jpeg"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "236",
+    "question": "236. Penicilina G ndryshon nga Penicilina V, sepse: ",
+    "options": [
+      "Kanë rrugë të ndryshme eleminimi",
+      "Spektër të ndryshëm veprimi",
+      "Administrohen me rrugë të ndryshme",
+      "Biotransformohen me rrugë të ndryshme"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "237",
+    "question": "237. Molekula e fenoprofenit ka:",
+    "options": [
+      "Një karbon asimetrik",
+      "Dy karbone asimetrik",
+      "Tre karbone asimetrik",
+      "Asnjë karbon asimetrik"
+    ],
+    "image": [
+      "images\\image_175.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "238",
+    "question": "238. Cili nga antimikrobikët e mëposhtëm, shkakton ndryshime në metabolizmin energjitik të qelizës bakterore:",
+    "options": [
+      "Cefalosporina",
+      "Polimiksina",
+      "Vankomicina",
+      "Dapsoni"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "239",
+    "question": "239. Cila nga alternativat, nuk është karakteristikë e imipenemit: ",
+    "options": [
+      "Është rezistent ndaj beta laktamazave",
+      "Ka spektër të gjerë veprimi antibakterik",
+      "Ç'aktivizohet nga dihidropeptidazat renale",
+      "Jepet i kombinuar me sulbaktam"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "240",
+    "question": "240. Mekanizmi i veprimit i haloperidolit dhe derivatëve të tij, mbështetet në: ",
+    "options": [
+      "Frenimin e kapjes së dopaminës në nivel sinaptik",
+      "Bashkëveprimin me receptorët GABA - ergjik",
+      "Frenimin e çlirimit të dopaminës",
+      "Bashkëveprimin me receptorët D2 dopaminergjik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "241",
+    "question": "241. Cilat nga këto lëndë, nuk veprojnë duke ndryshuar përshkueshmërinë e membranave qelizore: ",
+    "options": [
+      "Polimiksinat",
+      "Polienikët",
+      "Imidazolidikët",
+      "Kinolonet"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "242",
+    "question": "242. Rritja e aktivitetit antiflogjistik të hidrokortizonit (struktura kimike në vijim) arrihet nëpërmjet:",
+    "options": [
+      "Futjes në strukturë të një atomi fluor në 9 alfa",
+      "Futjes në strukturë të një atomi fluor në 2 alfa",
+      "Futjes në strukturë të një atomi fluor në16 ß",
+      "Futjes në strukturë të një atomi fluor në17 ß"
+    ],
+    "image": [
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "243",
+    "question": "243. Spiramicina vepron në:",
+    "options": [
+      "Sintezën proteinike ribozomike",
+      "Membranën plazmatike",
+      "Metabolizmin energjitik të qelizës bakterore",
+      "Murin qelizor bakteror"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "244",
+    "question": "244. Përfaqësuesit e mëposhtëm janë rezistentë ndaj laktamazave, me përjashtim të: ",
+    "options": [
+      "Oksacilinës",
+      "Flukloksacilinës",
+      "Penicilinës V",
+      "Nafcilinës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "245",
+    "question": "245. Cili nga pohimet e mëposhtme për noskapinën është i gabuar:",
+    "options": [
+      "Vepron në SNQ",
+      "Është një alkaloid natyror",
+      "Ka veti antitusive",
+      "Ngjason nga struktura me opoidet"
+    ],
+    "image": [
+      "images\\image_221.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "246",
+    "question": "246. Dhënia e probenicidit tek një pacient që po kurohet me penicilinë: ",
+    "options": [
+      "Rrit shpejtësinë e sekretimit renal të penicilinës",
+      "Ul shpejtësinë e sekretimit renal të penicilinës",
+      "Nuk ndikon në sekretimin e penicilinës",
+      "Shton përthithjen e penicilinës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "247",
+    "question": "247. Lënda vepruese e paraqitur në figurë ka veprim:",
+    "options": [
+      "Antibakteror",
+      "Anestezik",
+      "Antiinflamator",
+      "Antilipidemik"
+    ],
+    "image": [
+      "images\\image_200.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "248",
+    "question": "248. Efektet anësore të barnave glukokortikoidë janë:",
+    "options": [
+      "Ulçer abdominale, hipotension dhe ulje e rezistencës ndaj infeksioneve",
+      "Fytyrë e rrumbullakosur, hiperglicemi dhe ulje e rezistencës ndaj infeksioneve",
+      "Hipoglicemi e takikardi",
+      "Hepatit e hipoglicemi"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "249",
+    "question": "249. Toksiciteti i kloramfenikolit tek të porsalindurit, shfaqet me: ",
+    "options": [
+      "Insufiçencë hepatike",
+      "Sindromin Grey",
+      "Insufiçencë renale",
+      "Kardiotoksicitet"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "250",
+    "question": "250. Cili nga grupet e antibiotikëve të mëposhtëm, nuk administrohet nën moshën tetë vjeç: ",
+    "options": [
+      "Penicilinat",
+      "Tetraciklinat",
+      "Kloramfenikoli",
+      "Aminoglikozidikët"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "251",
+    "question": "251. Në disa specialitete, kloramfenikoli është në formën e esterit palmitik. Cili nga pohimet është i gabuar:",
+    "options": [
+      "Në këtë rast kemi të bëjmë me një promedikament",
+      "Ka humbur shijen e hidhur",
+      "Mund të sintetizohet më lehtë",
+      "Hidrolizohet nga lipazat pankreatike"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "252",
+    "question": "252. Cili nga kombinimet i korrespondon strukturës së mëposhtme:",
+    "options": [
+      "Ceftazidim - Antimikrobik",
+      "Glibenklamid - Antidiabetik",
+      "Klomipraminë - Antidepresiv",
+      "Tiklopidinë - Antitrombik"
+    ],
+    "image": [
+      "images\\image_122.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "253",
+    "question": "253. Tetraciklinat nuk këshillohen për pacientët: ",
+    "options": [
+      "Kardiopatik",
+      "Asmatik",
+      "Shtatëzanë",
+      "Me AIDS"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "254",
+    "question": "254. Barnat analogë të amfetaminës, shkaktojnë: ",
+    "options": [
+      "Diarre",
+      "Pakësim të oreksit",
+      "Ndjenjë lodhjeje",
+      "Hipotension"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "255",
+    "question": "255. Cila nga alternativat, është një promedikament që gjendet në specialitetet me administrim parenteral:",
+    "options": [
+      "Streptomicinë fosfat",
+      "Tetraciklinë klorhidrat",
+      "Ampicilinë",
+      "Kloramfenikol hemisuksinat natriumi"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "256",
+    "question": "256. Displazia e smaltit të dhëmbëve, mund të shfaqet tek fëmijët e nënave që gjatë shtatëzanisë kanë marrë:",
+    "options": [
+      "Kloramfenikol",
+      "Aztreonam",
+      "Ampicilinë",
+      "Tetraciklinë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "257",
+    "question": "257. Frenuesit e MAO-s, bllokojnë ose pakësojnë metabolizimin e: ",
+    "options": [
+      "Acetilkolinës",
+      "GABA-s",
+      "Noradrenalinës",
+      "Angiotenzinës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "258",
+    "question": "258. Cili nga antibiotikët, përdoret vetëm për përdorim lokal: ",
+    "options": [
+      "Tobramicina",
+      "Neomicina",
+      "Gentamicina",
+      "Amikacina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "259",
+    "question": "259. Janë neuroleptikë: ",
+    "options": [
+      "Hidantoinat",
+      "Benzodiazepinat",
+      "Butirofenonet",
+      "Metilksantinat"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "260",
+    "question": "260. Cili nga antimykotikët, nuk përdoret për mykozat sistemike: ",
+    "options": [
+      "Mikonazoli",
+      "Amfotericina B",
+      "Nistatina",
+      "Flucitozina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "261",
+    "question": "261. Klortetraciklina vepron: ",
+    "options": [
+      "Në nënnjësinë 50S",
+      "Në membranën citoplazmatike",
+      "Në nënnjësinë 30S",
+      "Në acidet nukleike të qelizës bakterore"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "262",
+    "question": "262. Alkaloidi vinkristinë, vepron si antineoplazik sepse:",
+    "options": [
+      "Interkelohet mes dy bazave të AND-së që janë pranë si guaninë-citozinë",
+      "Nxit topoizomerazën II që shkakton këputjen e AND-së",
+      "Inhibon polimerizimin e tubulinës",
+      "Alkilon komponentët e AND-së"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "263",
+    "question": "263. Gjatë trajtimit të depresionit me frenues të MAO-s, duhet të shmangen ushqimet që përmbajnë: ",
+    "options": [
+      "Serinë",
+      "Acid glutamik",
+      "Acid citrik",
+      "Tiraminë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "264",
+    "question": "264. Florkinolonet kundërindikohen: ",
+    "options": [
+      "Në moshë pediatrike",
+      "Në moshë të vjetër",
+      "Në pacientët kardiopatik",
+      "Në pacientët asmatik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "265",
+    "question": "265. Cili nga pohimet për idoksuridinën, nuk paraqet një karakteristikë të vërtetë të tij: ",
+    "options": [
+      "Në strukturën kimike ka një halogjen",
+      "Vepron kundër AND viruseve",
+      "Përdoret lokalisht në oftalmologji",
+      "Përdoret kryesisht kundër herpes simplex 3"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "266",
+    "question": "266. Kandidozat kronike të traktit gastrointestinal dhe të kavitetit oral, trajtohen me: ",
+    "options": [
+      "Amfotericinë B",
+      "Nistatinë",
+      "Mikonazol",
+      "Flukonazol"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "267",
+    "question": "267. Cili nga këto barna ka strukturë lineare: ",
+    "options": [
+      "Merkaptopurina",
+      "Fluoruracili",
+      "Bleomicina",
+      "Busulfani"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "268",
+    "question": "268. Cili nga këta anti H1 histaminikë, ka efekt sedativ më të spikatur: ",
+    "options": [
+      "Difenhidramina",
+      "Terfenandina",
+      "Klorfenamina",
+      "Ciklizina"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "269",
+    "question": "269. Karakteristika kryesore dalluese që i grupon në gjenerata përfaqësuesit e cefalosporinave, është:",
+    "options": [
+      "Analogjia strukturore e molekulave",
+      "Format farmaceutike ekzistuese për përdorim terapeutik",
+      "Aktiviteti antimikrobik",
+      "Data e hedhjes në treg"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "270",
+    "question": "270. Struktura e paraqitur i korrespondon:",
+    "options": [
+      "Promazinë - Antidepresiv",
+      "Klorpromazinë - Antipsikotik",
+      "Triazolam - Hipnotik sedativ",
+      "Imipraminë - Antidepresiv"
+    ],
+    "image": [
+      "images\\image_19.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "271",
+    "question": "271. Në strukturën pentaciklike të morfinës cili nga ciklet duhet të mbetet i pandryshuar që të ruhet aktiviteti farmakologjik:",
+    "options": [
+      "Oktahidrokinolik",
+      "Dekahidrokinolik",
+      "Dihidrofuranoik",
+      "Benzenik"
+    ],
+    "image": [
+      "images\\image_39.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "272",
+    "question": "272. Cili është aktiviteti farmakologjik i maprotilinës (struktura në vijim):",
+    "options": [
+      "Antipsikotik",
+      "Neuroleptik",
+      "Antimikrobik",
+      "Antidepresiv"
+    ],
+    "image": [
+      "images\\image_60.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "273",
+    "question": "273. Ndër këto lëndë antitumorale, cila ka përdorim të kufizuar për shkak të kardiotoksicitetit: ",
+    "options": [
+      "Daktinomicin",
+      "Doksorubicin",
+      "Bleomicin",
+      "Cisplatin"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "274",
+    "question": "274. Frenimi i dihidrofolat reduktazës, është mekanizmi i veprimit të: ",
+    "options": [
+      "Prokarbazinës",
+      "Metotreksatit",
+      "Vinkristinës",
+      "Vidarabinës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "275",
+    "question": "275. Lejohet administrimi i acetaminofenit, tek fëmijët nën 12 vjeç: ",
+    "options": [
+      "1-2 herë në ditë",
+      "1 herë në ditë",
+      "2-3 herë në ditë",
+      "Deri në 5 herë në ditë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "276",
+    "question": "276. Cili nga këta antimikrobikë, ndërhyjnë në sintezën ose metabolizmin energjitik të acideve nukleike të qelizës bakterore:",
+    "options": [
+      "Trimetoprim",
+      "Vankomicin",
+      "Bacitracin",
+      "Nitrofurantoin"
+    ],
+    "image": [
+      "images\\image_83.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "277",
+    "question": "277. Anatagonistët e receptorëve H2, veprojnë: ",
+    "options": [
+      "Duke frenuar sintezën e prostaglandinave ",
+      "Duke pakësuar perilstatikën gastrike",
+      "Duke formuar një barrierë mbrojtëse kundër acidit",
+      "Duke pakësuar sekretimin acid"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "278",
+    "question": "278. Cili nga pohimet për metoklopramidin është i gabuar:",
+    "options": [
+      "Është një lëndë vepruese me veti bazike",
+      "Gjendet në një specialitet mjekësor për aciditetin gastrik",
+      "Ka aktivitet neuroleptik",
+      "Struktura e tij ngjan me atë të butirofenoneve"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "279",
+    "question": "279. Heparina mund të përthithet, vetëm nëse administrohet: ",
+    "options": [
+      "Në një formë farmaceutike gastrorezistente",
+      "Me rrugë rektale",
+      "Me inhalacion",
+      "Me injektim nën lëkurë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "280",
+    "question": "280. Insulina nuk mund të jepet nga goja, sepse: ",
+    "options": [
+      "Është hidrofile",
+      "Është lipofile",
+      "Degradohet shpejt",
+      "Është e jonizuar"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "281",
+    "question": "281. Cila nga këto lëndë përdoret për të ndaluar rritjen e tumoreve të varur nga estrogjeni, pasi ka aftësi të lidhet tek receptorët e tij:",
+    "options": [
+      "Dietilstilbestroli",
+      "Megestroli",
+      "Tamoksifeni",
+      "Lomustina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "282",
+    "question": "282. Administrimi në të njëjtën kohë i fenobarbitalit dhe i një kontraceptivi oral, që përban të dy komponentët estrogjenik e gestagjenik:",
+    "options": [
+      "Pakëson efektin kontraceptiv",
+      "Fuqizon efektin kontraceptiv",
+      "Nuk ndikon në aktivitetin kontraceptiv",
+      "Fuqizon efektet anësore të estrogjenit"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "283",
+    "question": "283. Lënda e paraqitur në figurë është një:",
+    "options": [
+      "Pirazolidindionik",
+      "Anilid",
+      "Sulfonamid",
+      "Acid karboksilik"
+    ],
+    "image": [
+      "images\\image_123.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "284",
+    "question": "284. Doksorubicina është një antitumoral, që bën pjesë tek: ",
+    "options": [
+      "Agjentët alkilues",
+      "Antibiotikët interkelues",
+      "Antimetabolitët",
+      "Alkaloidët natyror, frenues të mitozës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "285",
+    "question": "285. Një tetraciklinë përthithet më mirë nga goja, nëse jepet: ",
+    "options": [
+      "Esëll",
+      "Me qumësht",
+      "Me kripëra të hekurit",
+      "Me kaolinë"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "286",
+    "question": "286. Cili nga pohimet për klorhidratin e prokainamidit nuk është i saktë:",
+    "options": [
+      "Është një antiaritmitik",
+      "Kur tretet në ujë jep një vlerë pH rreth 6",
+      "Përdoret si anestezik lokal i tipit amidik",
+      "Administrohet me rrugë orale e parenterale"
+    ],
+    "image": [
+      "images\\image_81.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "287",
+    "question": "287. Pomadat me ketokonazol, përdoren për trajtimin e: ",
+    "options": [
+      "Infeksioneve nga Candida",
+      "Mykozave sistemike",
+      "Infeksione të mukozave",
+      "Tinea cruris"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "288",
+    "question": "288. Ciklofosfamidi është një: ",
+    "options": [
+      "Antimetabolit",
+      "Antibiotik",
+      "Antagonist i receptorëve të estrogjenit",
+      "Agjent alkilues"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "289",
+    "question": "289. Nuk është përfaqësues i glukokortikoidëve: ",
+    "options": [
+      "Deksametazoni",
+      "Triamcinoloni",
+      "Danazoli",
+      "Prednizoloni"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "290",
+    "question": "290. Cefiksima vepron në:",
+    "options": [
+      "Sintezën proteinike ribozomiale",
+      "Membranën citoplazmatike",
+      "Murin qelizor bakteror",
+      "Acidet nukleike të qelizës bakterore"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "291",
+    "question": "291. Pakësimi i niveleve të tetraciklinës në gjak, kur merret me produkte që përmbajnë kalcium, i detyrohet:",
+    "options": [
+      "Një bashkëveprimi elektrostatik",
+      "Kompleksoformimit",
+      "Inhibimit enzimatik",
+      "Sinergjizmit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "292",
+    "question": "292. Ndër lëndët e mëposhtme, zgjidhni përfaqësuesin me fuqi më të ulët diuretike dhe që nxit rrahjet e zemrës:",
+    "options": [
+      "Klortiazidi",
+      "Teofilina",
+      "Acetazolamidi",
+      "Triamtereni"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "293",
+    "question": "293. Ndër këto diuretikë, cili është antagonist konkurues i aldosteronit: ",
+    "options": [
+      "Teofilina",
+      "Spironolaktoni",
+      "Triamtereni",
+      "Acetazolamidi"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "294",
+    "question": "294. Cila nga këto lëndë, eleminohet kryesisht nëpërmjet rrugës urinare në formë metabolitësh: ",
+    "options": [
+      "Imipramina",
+      "Penicilina G",
+      "Neomicina",
+      "Acidi Kromoglicik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "295",
+    "question": "295. Lorazepami ka shpejtësi eleminimi të ndryshme nga diazepami, për shkak të: ",
+    "options": [
+      "Pranisë së grupit 2-klorfenilik në pozicionin 5",
+      "Mungesës së grupit metil në pozicionin 1",
+      "Pranisë së grupit OH në pozicionin 3 ku lidhet acidi glukuronik",
+      "Pranise së grupit =NH"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "296",
+    "question": "296. Lënda e paraqitur në figurë është një:",
+    "options": [
+      "Pirazolidindionik",
+      "Anilid",
+      "Sulfonamid",
+      "Acid karboksilik"
+    ],
+    "image": [
+      "images\\image_124.png",
+      "images\\image_151.jpeg"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "297",
+    "question": "297. Etopoksidi është një antitumoral, derivat i: ",
+    "options": [
+      "Emetinës",
+      "Vinblastinës",
+      "Kolkicinës",
+      "Podofilotoksinës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "298",
+    "question": "298. Ciklopentolati struktura e të cilit në figurë, ka veprim:",
+    "options": [
+      "Antimuskarinik",
+      "Spazmolitik intestinal",
+      "Spazmolitik urinar",
+      "Bronkodilatator"
+    ],
+    "image": [
+      "images\\image_172.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "299",
+    "question": "299. Pilokarpina është një alkaloid me bërthamë:",
+    "options": [
+      "Fenantrenike",
+      "Imidazolike",
+      "Indolike",
+      "Piridinike"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "300",
+    "question": "300. Cila nga këto lëndë, nuk është një antinfektiv kinolonik: ",
+    "options": [
+      "Acidi nalidiksik",
+      "Enoksacina",
+      "Metenamina",
+      "Lomefloksacina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "301",
+    "question": "301. Të gjitha lëndët e mëposhtme janë natyrore, me përjashtim të: ",
+    "options": [
+      "Atropinës",
+      "Meperidinës",
+      "Morfinës",
+      "Benzilpenicilinës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "302",
+    "question": "302. Linkomicina vepron në:",
+    "options": [
+      "Acidet nukleike të qelizës bakterore",
+      "Murin qelizor bakteror",
+      "Metabolizmin energjitik të qelizës bakterore",
+      "Sintezën proteinike ribozomike"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "303",
+    "question": "303. Diazepami pëson një shëndrrim metabolik kryesor: ",
+    "options": [
+      "N-demetilim",
+      "Hidroksilim aromatik",
+      "N-oksidim",
+      "Dezealkilim"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "304",
+    "question": "304. Klaritromicina vepron në:",
+    "options": [
+      "Sintezën proteinike ribozomike",
+      "Membranën plazmatike",
+      "Acidet nukleike të qelizës bakterore",
+      "Metabolizmin energjitik të qelizës bakterore"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "305",
+    "question": "305. Lënda me strukturën e pjesshme të dhënë, bën pjesë tek:",
+    "options": [
+      "Tetraciklinat",
+      "Polienikët",
+      "Ansamicinat",
+      "Cefalosporinat"
+    ],
+    "image": [
+      "images\\image_194.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "306",
+    "question": "306. Cili nga antibiotikët e mëposhtëm është një makrolid: ",
+    "options": [
+      "Linkomicina",
+      "Klaritromicina",
+      "Mezlocilina",
+      "Spektinomicina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "307",
+    "question": "307. Cila nga këto lëndë vepruese, ka veti antitumorale: ",
+    "options": [
+      "Propranolol",
+      "Sotalol",
+      "Letrozol",
+      "Karvedilol"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "308",
+    "question": "308. Disa përfaqësues të opiateve mund të përdoren si antidiarreikë, sepse: ",
+    "options": [
+      "Veprojnë tek receptorët opiatë në intestin dhe ulin peristaltikën",
+      "Veprojnë tek receptorët opiatë në intestin e nxisin çlirimin e acetilkolinës",
+      "Kanë veprim relaksues muskulor të ngjashëm me papaverinën",
+      "Kanë veprim frenues mbi fosfodiesterazat"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "309",
+    "question": "309. Iproniazidi ka veprim: ",
+    "options": [
+      "Antimykotik",
+      "Antihipertensiv",
+      "Antidepresiv",
+      "Analgjezik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "310",
+    "question": "310. Terbinafina është një alilaminë me veprim: ",
+    "options": [
+      "Antibakterik",
+      "Antiulceroz",
+      "Antiviral",
+      "Antimykotik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "311",
+    "question": "311. Barnat që nxisin enzimat biotransformuese hepatike ose induktorët enzimatikë, janë: ",
+    "options": [
+      "Diuretikët",
+      "Barbituratet",
+      "Glikozidet kardiake",
+      "Antiulçerozët"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "312",
+    "question": "312. Tamzulosina administrohet:",
+    "options": [
+      "Në shqetësime të rrugëve urinare dhe hiperplazi beninje të prostatës",
+      "Në hipertension",
+      "Në angina pektoris",
+      "Si dezifektant i rrugëve urinare"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "313",
+    "question": "313. Flumazenil bllokon efektet e: ",
+    "options": [
+      "Fenobarbitalit",
+      "GABA-s",
+      "Zolpidemit",
+      "Halotanit"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "314",
+    "question": "314. Prapashtesa \"triptan\" ndeshet tek barnat:",
+    "options": [
+      "Agonistë të receptorëve serotoninergjik 5-HT1",
+      "Antagonistë të receptorëve serotoninergjik 5-HT1",
+      "Agonistë të receptorëve serotoninergjikë 5-HT3",
+      "Antagonistë të receptorëve muskarinik m3"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "315",
+    "question": "315. Mifepristoni vepron si: ",
+    "options": [
+      "Antiprogestinik",
+      "Antiestrogjenik",
+      "Antiandrogjenik",
+      "Progestogjen"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "316",
+    "question": "316. Përdorimi për kohë të gjatë i nafazolinës, mund të shkaktojë: ",
+    "options": [
+      "Rinit iatrogjen",
+      "Diarre",
+      "Hipoglicemi",
+      "Hipotiroidizëm"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "317",
+    "question": "317. Osteltamivir (Tamiflu), vepron: ",
+    "options": [
+      "Kundër HIV",
+      "Kundër herpesit",
+      "Kundër influencës",
+      "Kundër hepatit C"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "318",
+    "question": "318. Vorikonazoli është një antimykotik, i cili:",
+    "options": [
+      "Biotransformohet në një metabolit me toksicitet të lartë renal",
+      "Frenon aktivitetin e disa enzimave metabolizuese",
+      "Shkakton diarre",
+      "Shkaton të përziera"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "319",
+    "question": "319. Beklometazoni:",
+    "options": [
+      "Ka efekte sistemike të spikatura",
+      "Ka efekte të pakta sistemike",
+      "Toksicitet të lartë",
+      "Gjysmëjetë plazmatike të gjatë"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "320",
+    "question": "320. Cili term i përshtatet më mirë një lënde, që frenon rritjen e qelizave bakterore: ",
+    "options": [
+      "Antimikrobik",
+      "Bakteriostatik",
+      "Baktericid",
+      "Antibiotik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "321",
+    "question": "321. Cila nga lëndet e mëposhtme, nuk ka efekt teratogjen: ",
+    "options": [
+      "Metoreksatit",
+      "Ciklofosfamidit",
+      "Karbamazepinës",
+      "Metildopës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "322",
+    "question": "322. Analogët e GnRH si gosorelin, nafarelin, që përdoren në terapi, janë: ",
+    "options": [
+      "Antagonistë jo konkurues për receptorët e GnRH",
+      "Antagonistë konkurues për receptorët e GnRH",
+      "Agonistë të receptorëve të GnRH",
+      "Antagonistë të receptorëve për androgjenët"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "323",
+    "question": "323. Levodopa është një bar që përdoret në: ",
+    "options": [
+      "Parkinson",
+      "Skizofreni",
+      "Depresion",
+      "Hipertension"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "324",
+    "question": "324. Letrazoli përdoret kryesisht, në: ",
+    "options": [
+      "Terapinë antihipertensive",
+      "Trajtimin e karcinomave mamare të ndjeshme ndaj hormoneve",
+      "Angina pectoris",
+      "Trajtimin e tumorit të testikujve"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "325",
+    "question": "325. Efektet kardiake të dobutaminës, mund të frenohen nga: ",
+    "options": [
+      "Prazosina",
+      "Metoprololi",
+      "Klonidina",
+      "Izoproterenoli"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "326",
+    "question": "326. Cili grup barnash ka marrë prapashtesën \"azepam\": ",
+    "options": [
+      "Antiinflamatorë arilacetik",
+      "Antiepileptik hidantoik",
+      "Anksiolitikë benzodiazepinik",
+      "Anksiolotikë të tipit karbamik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "327",
+    "question": "327. Fosfonatët antiviral, veprojnë gjatë: ",
+    "options": [
+      "Futjes së virusit në qelizë",
+      "Integrimit të virusit",
+      "Retrotranskiptimit",
+      "Bashkimit me proteinat virale"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "328",
+    "question": "328. Cili nga grupimet është i saktë:",
+    "options": [
+      "Metoprolol-antimykotik- beta bllokues",
+      "Ekonazol-antimykotik- formon pore në membranë",
+      "Mikonazol-antimykotik-bllokon sintezën e ergosterolit",
+      "Pantoprazol-antiulceroz-frenon receptorët e histaminës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "329",
+    "question": "329. Cila nga këto barna, përveç mekanizmit bazë të veprimit, frenojnë sintezën e prostaglandinës dhe leukotrieneve:",
+    "options": [
+      "Ciklofosfamidi",
+      "Ciklosporina",
+      "Merkaptopurina",
+      "Prednizoni"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "330",
+    "question": "330. Cili nga këto barna, ka veprim kundër H.Influenza: ",
+    "options": [
+      "Aciklovir",
+      "Indinavir",
+      "Tenofovir",
+      "Osteltamivir"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "331",
+    "question": "331. Betametazoni administrohet në rastin e një lindjeje të parakohshme, për të shpejtuar: ",
+    "options": [
+      "Procesin e lindjes",
+      "Maturimin e mushkrive të fetusit",
+      "Maturimin e veshkave të fetusit",
+      "Maturimin e mëlçisë së fetusit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "332",
+    "question": "332. Polimiksinat:",
+    "options": [
+      "Shkatërrojnë membranën qelizore të bakterit",
+      "Frenojnë sintezën proteinike bakterore",
+      "Ndërhyjnë në metabolizmin energjitik bakteror",
+      "Prishin murin qelizor bakteror"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "333",
+    "question": "333. Efekti anësor kryesor për antraciklinat, është: ",
+    "options": [
+      "Kardiotoksiciteti",
+      "Nefrotoksiciteti",
+      "Hepatotoksiciteti",
+      "Ototoksiciteti"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "334",
+    "question": "334. Dy strukturat e paraqitura bëjnë pjesë tek estrogjenikët dhe përfaqësojnë:",
+    "options": [
+      "Dy enantiomerë",
+      "Dy diasteromerë",
+      "Dy izomerë gjeometrik",
+      "Të njëjtën lëndë"
+    ],
+    "image": [
+      "images\\image_215.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "335",
+    "question": "335. Ndër grupimet bar - receptor të mëposhtme, cili është i vërtetë: ",
+    "options": [
+      "Karbidopa - aldehid dehidrogjenazë",
+      "Alfa MetilDOPA - MAO-B",
+      "Fiziostigminë - acetilkolinesterazë",
+      "Acid fusarik - alkool dehidrogjenazë"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "336",
+    "question": "336. Cili nga antibiotikët aminoglikozidikë, mund të administrohet edhe në rrugë orale edhe parenterale:",
+    "options": [
+      "Amikacina",
+      "Gentamicina",
+      "Kanamicina",
+      "Streptomicina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "337",
+    "question": "337. Fluokortoloni është: ",
+    "options": [
+      "Antiulçeroz",
+      "Kortikosteroid",
+      "Analgjezik",
+      "Eksipient"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "338",
+    "question": "338. Linezolidi ka veprim: ",
+    "options": [
+      "Hipolipidemik",
+      "Diuretik",
+      "Antibakterik",
+      "Antiaritmik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "339",
+    "question": "339. Barbituratet dallojnë nga zëvendësuesit në poyicionin 5. Cilët nga këto grupe nuk mund të zënë vendet R1 apo R2 tek karboni?",
+    "options": [
+      "Etil",
+      "Hidrogjen",
+      "Fenil",
+      "Ciklohekzan"
+    ],
+    "image": [
+      "images\\image_115.png",
+      "images\\image_11.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "340",
+    "question": "340. Feniramina bën pjesë tek: ",
+    "options": [
+      "Kontraceptivët hormonal ",
+      "Antihistaminikët",
+      "Benzodiazepinat",
+      "Antidiabetikët oral"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "341",
+    "question": "341. Cili nga këto lëndë, nuk është një bar antitiroidik: ",
+    "options": [
+      "Metimazoli",
+      "Propiltiouracili",
+      "Tiamazoli",
+      "Metizoprinoli"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "342",
+    "question": "342. Derivatet e 8-hidroksinolinave të paraqitura bëjnë pjesë tek:",
+    "options": [
+      "Antimalarikët",
+      "Antitumoralët",
+      "Antimikrobikët",
+      "Anestezikët e përgjithshëm"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "343",
+    "question": "343. Metadoni ngjason më shumë si strukturë kimike me:",
+    "options": [
+      "Morfinën",
+      "Pirazolonin",
+      "4,4-difenilheptan-3-on",
+      "Dezoksiefedrinën"
+    ],
+    "image": [
+      "images\\image_35.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "344",
+    "question": "344. Cili organ përmban më shumë jod tek njerëzit: ",
+    "options": [
+      "Truri",
+      "Tiroidja",
+      "Mëlçia",
+      "Pankreasi"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "345",
+    "question": "345. Një specialitet mjekësor përmban mesalazinë (struktura në vijim). Cili nga pohimet lidhur me të është i gabuar:",
+    "options": [
+      "Përdoret si antiinflamator në pjesën fundore të intesitinit",
+      "Ka veprim lokal",
+      "Gjendet në treg në format tablete e klizëm",
+      "Gjendet në treg si shurup për përdorim pediatrik"
+    ],
+    "image": [
+      "images\\image_56.jpeg",
+      "images\\image_71.jpeg"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "346",
+    "question": "346. Një specialitet mjekësor përmban dekstrometorfan dhe doksilaminë. Cili nga pohimet është i vërtetë:",
+    "options": [
+      "Lëndët vepruese të këtij specialiteti janë analogë të kodeinës",
+      "Doksilamina ka veti antihistaminike",
+      "Doksilamina është një ekspient",
+      "Vetëm dy nga pohimet e mësipërme janë të vërteta"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "347",
+    "question": "347. Tek acidet arilpropionike si naprokseni (struktura në vijim), aktiviteti varet kryesisht nga:",
+    "options": [
+      "Prania e një grupi alkilik në pozicioni 4",
+      "Zëvendësime në unazën benzenike",
+      "Stereokimia në karbonin 2",
+      "Prania e një grupi heterociklik"
+    ],
+    "image": [
+      "images\\image_101.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "348",
+    "question": "348. Cili është aktiviteti kryesor farmakologjik që kanë derivutet e acidit fenamik me strukturën si më poshtë:",
+    "options": [
+      "Antiinflamator",
+      "Antimykotik",
+      "Antiasmatik",
+      "Antimalarik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "349",
+    "question": "349. Barnat antimykotik, frenojnë sintezën e: ",
+    "options": [
+      "Kolesterolit",
+      "Stigmesterolit",
+      "Ergosterolit",
+      "Kortizolit"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "350",
+    "question": "350. Cili nga këto hormone nuk përdoret në terapi: ",
+    "options": [
+      "Adrenokortikotropina",
+      "Prolaktina",
+      "Oksitocina",
+      "Vazopresina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "351",
+    "question": "351. Cili nga këta makrolidë nuk merret nga goja: ",
+    "options": [
+      "Spiramicina",
+      "Eritromicina",
+      "Eritromicina etilsuksinat",
+      "Klaritromicina"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "352",
+    "question": "352. Cili është indikacioni kryesor terapeutik për sulfonilireikët me këtë strukturë:",
+    "options": [
+      "Diabet insulinovartës (Tipi I)",
+      "Diabet jo insulinovartës (Tipi II)",
+      "Trajtim të rezistenës muskulare ndaj insulinës",
+      "Feokromocitoma"
+    ],
+    "image": [
+      "images\\image_140.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "353",
+    "question": "353. Dusulepina është një bar: ",
+    "options": [
+      "Antagonist i Ca 2+",
+      "Antihistaminik",
+      "Anksiolitik",
+      "Antidepresiv"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "354",
+    "question": "354. Janë barna antitumoral: ",
+    "options": [
+      "Naftaciklinat",
+      "Antraciklinat",
+      "Tetraciklinat",
+      "Pentaciklinat"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "355",
+    "question": "355. Frenuesit e MAO-s nuk duhet dhënë njëherësh me: ",
+    "options": [
+      "Antidepresiv triciklik",
+      "Sulfonamidik",
+      "Aspirinë",
+      "ß-bllokues"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "356",
+    "question": "356. Shkaku kryesor për dëmtimin e stomakut nga antiinflamatorët jo steroidë, është: ",
+    "options": [
+      "Nxitet çlirimi i kolecistokininës",
+      "Nxitet sistemi histaminergjik në nivel gastroenterik",
+      "Nxitet sistemi kolinergjik në nivel gastroenterik",
+      "Bllokohet sinteza e prostaglandinave cipëmbrojtëse në stomak"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "357",
+    "question": "357. Metimazoli ul nivelet e T3, sepse: ",
+    "options": [
+      "Nxit metabolizmin periferik për T4",
+      "Frenon proteolizën e globulinës me të cilën është lidhur tiroksina",
+      "Frenon clirimin e tireotropinës (TSH)",
+      "Frenon futjen e jodit në mbetejet e tirozinës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "358",
+    "question": "358. Ç'problem mund të vërehet, gjatë marrjes së antimykotikut itrakonazol: ",
+    "options": [
+      "Paqëndrueshmëri e lëndës vepruese",
+      "Formimi i një metaboliti shumë toksik",
+      "Ndërveprime me barna të tjerë për shkak të frenimit të CYP 3A4",
+      "Eruzione të konsiderueshme në lëkurë"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "359",
+    "question": "359. Cila nga këto lëndë, bën pjesë në klasën e tiazolidindioneve hipoglicemizues: ",
+    "options": [
+      "Lizurid",
+      "Glimepirid",
+      "Metformin",
+      "Pioglitazon"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "360",
+    "question": "360. Veprimi antipiretik i antiinflamatorëve jo steroidikë, lidhet me: ",
+    "options": [
+      "Shpërndarjen e nxehtësisë nëpërmjet lëkurës",
+      "Frenimin e sintezës së prostaglandinave në disa zona cerebrale",
+      "Efektin stabilizues mbi membranat e neuroneve",
+      "Bllokimin e receptorëve 5 HT2 në hipotalam"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "361",
+    "question": "361. Struktura e pjesshme e paraqitur është:",
+    "options": [
+      "Antibiotik - tetraciklinë",
+      "Antibakterik - kinolon",
+      "Antibiotik - penicilinë",
+      "Antibiotik - cefalosporin"
+    ],
+    "image": [
+      "images\\image_161.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "362",
+    "question": "362. Itrakonazoli përdoret në mykozat sipërfaqësore dhe sistemike. Veprimi i tij mbështet në: ",
+    "options": [
+      "Frenimin e sintezës së ergosterolit",
+      "Frenimin e sintezës së acideve nukleike",
+      "Kompleksimin me ergosterolin në membranën plazmatike të mykut",
+      "Frenimin e grumbullimit të asamblesë së tubulinës gjatë mitozës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "363",
+    "question": "363. Antiinflamatorët jo steroidikë (NSAID), bllokojnë enzimën: ",
+    "options": [
+      "Acetilkolinesterazë",
+      "Ciklooksigjenazë",
+      "Aromatazë",
+      "GABA- transaminazë"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "364",
+    "question": "364. Cili nga këto antimetabolitë vepron si antitumoral, në hapat e para të sintezës së acideve nukleike:",
+    "options": [
+      "Citarabina",
+      "Tioguanina",
+      "Fluoruracili",
+      "Metotreksati"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "365",
+    "question": "365. Marrja e tiraminës me anë të ushqimit për një pacient që merr frenues jo specifik të MAO-s, mund të rezultojë në:",
+    "options": [
+      "Krizë hipertensive",
+      "Deprimin të aktivitetit kardiak",
+      "Frenim të peristaltikës intestinale",
+      "Kolaps të qarkullimit të gjakut në zemër"
+    ],
+    "image": [
+      "images\\image_182.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "366",
+    "question": "366. Një specialitet mjekësor transdermik përmban estrogjenë. Ai gjen përdorim: ",
+    "options": [
+      "Si hipoglicemizues",
+      "Si antianginoz",
+      "Si antihipertensiv",
+      "Në simptomat e menopauzës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "367",
+    "question": "367. Ketotifeni (struktura në vijim), ka veprim:",
+    "options": [
+      "Antimykotik",
+      "Anti H1 histaminik",
+      "Kolinergjiinik",
+      "Antimuskarinik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "368",
+    "question": "368. Analogët nukleozidik të fosfatuar, veprojnë si: ",
+    "options": [
+      "Antibakterik",
+      "Antiviral",
+      "Antitumoral",
+      "Antihipertensiv"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "369",
+    "question": "369. Ketoprofeni ka në strukturën e tij:",
+    "options": [
+      "Një karbon asimetrik",
+      "Dy karbone asimetrik",
+      "Tre karbone asimetrik",
+      "Izomeri cis-trans"
+    ],
+    "image": [
+      "images\\image_204.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "370",
+    "question": "370. Përdorimi i nafazolinës në moshat pediatrike, kundërindikohet për shkak të efekteve anësore: ",
+    "options": [
+      "Gastroinestinale",
+      "Në SNQ",
+      "Hepatike",
+      "Renale"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "371",
+    "question": "371. p-hidroksiacetanilid, i referohet lëndës vepruese: ",
+    "options": [
+      "Paracetamol",
+      "Acid acetil salicilik",
+      "Ibuprofen",
+      "Indometacin"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "372",
+    "question": "372. Veprimi i letrozolit, bazohet në frenimin e: ",
+    "options": [
+      "Receptorëve alfa adrenergjik",
+      "Receptorëve beta adrenergjik",
+      "Aromatazës",
+      "Kinazës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "373",
+    "question": "373. Kundër gonorresë, bari i zgjedhur është: ",
+    "options": [
+      "Streptomicina",
+      "Kanamicina",
+      "Neomicina",
+      "Cetriaksoni"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "374",
+    "question": "374. Duke pasur parasysh strukturën, aztreonam vepronmbi:",
+    "options": [
+      "Acidet nukleike të qelizës bakterore",
+      "Membranën citoplazmatike",
+      "Murin qelizor bakteror",
+      "Sintezën proteinike ribozomike"
+    ],
+    "image": [
+      "images\\image_93.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "375",
+    "question": "375. Gjatë terapisë me estrogjen, nuk duhet të merret: ",
+    "options": [
+      "Sotalol",
+      "Pindolol",
+      "Anastrazol",
+      "Metoprolol"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "376",
+    "question": "376. Dikloverina (struktura në vijim) përdoret si:",
+    "options": [
+      "Laksativ",
+      "Anestezik lokal",
+      "Antimeteoritik",
+      "Spazmolitik"
+    ],
+    "image": [
+      "images\\image_1.png",
+      "images\\image_26.jpeg"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "377",
+    "question": "377. Buspironi (struktura në vijim) është anksiolitik që vepron kryesisht si:",
+    "options": [
+      "Agonist i pjesshëm i receptorëve benzodiazepinik",
+      "Agonist muskarinik",
+      "Agonist i receptorëve 5-HT1A",
+      "Aktivizues i transmetimit GABA-ergjik"
+    ],
+    "image": [
+      "images\\image_46.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "378",
+    "question": "378. Nikotina:",
+    "options": [
+      "Stimulon transmetimin ganglionar",
+      "Antagonizon receptorët muskarinik",
+      "Stimulon receptorët alfa adrenergjik",
+      "Stimulon receptorët beta adrenergjik kardiakë"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "379",
+    "question": "379. Izoprenalina (struktura në vijim), rregullon tonusin e muskulaturës së lëmuar të bronkeve sepse:",
+    "options": [
+      "Çliron noradrenalinën nga vezikulat sinaptike të mbaresave simpatike",
+      "Frenon rikapjen e noradrenalinës",
+      "Stimulon receptorët alfa adrenergjik",
+      "Stimulon receptorët beta adrenergjik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "380",
+    "question": "380. Në trajtimin e anemive, keshillohet marrja e: ",
+    "options": [
+      "Vitamines K",
+      "Vitamines E",
+      "Vitamines D",
+      "Acidit Folik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "381",
+    "question": "381. Struktura e mëposhtme i takon një vitamine të tretshme në ujë, ajo është:",
+    "options": [
+      "Vitamina D",
+      "Vitamines E",
+      "Vitamina B12",
+      "Acidi askorbik"
+    ],
+    "image": [
+      "images\\image_61.png",
+      "images\\image_84.jpeg"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "382",
+    "question": "382. Struktura e mëposhtme i takon një vitamine të tretshme në ujë, ajo është:",
+    "options": [
+      "Vitamina D",
+      "Vitamines K",
+      "Vitamina C",
+      "Vitamina B1"
+    ],
+    "image": [
+      "images\\image_125.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "383",
+    "question": "383. Për strukturën e mëposhtme, cili nga pohimet është i saktë:",
+    "options": [
+      "I përket klasës së dihidropiridinave",
+      "Është kaptoprili",
+      "Është një calcibllokues",
+      "Është një diuretik"
+    ],
+    "image": [
+      "images\\image_152.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "384",
+    "question": "384. Pravastatina:",
+    "options": [
+      "Bën përthithje të acideve biliare dhe jashtëqitjen e tyre",
+      "Formon lidhje me hidroksilin e pozicionit tre të kolesterolit",
+      "Formon lidhje me grupin karboksilik të acideve biliare në intestin",
+      "Vepron si inhibitor i sistemit enzimatik që merr pjesë në biosintezën e kolesterolit"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "385",
+    "question": "385. Struktura e mëposhtme i takon grupit të:",
+    "options": [
+      "Diuretikëve",
+      "Inhibitorëve të pompës protonike(Antiulcerozeve)",
+      "Antianginozëve",
+      "Fibrateve"
+    ],
+    "image": [
+      "images\\image_173.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "386",
+    "question": "386. Cili nga përfaqësuesit e mëposhtëm, është promedikament: ",
+    "options": [
+      "Klofibrat",
+      "Gemfibroliz",
+      "Ciprofibrat",
+      "Benzafibrat"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "387",
+    "question": "387. Cila nga substancat e mëposhtme, ka një kohë më të gjatë veprimi: ",
+    "options": [
+      "Simvastatina",
+      "Pravastatina",
+      "Atorvastatina",
+      "Fluvastatina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "388",
+    "question": "388. Në marrëdhëniet strukturë - veprim për ACE-inhibitorët, cili nga pohimet nuk është i saktë: ",
+    "options": [
+      "Stereokimia e inhibitorëve duhet të jetë e ngjashme me atë të aminoacideve",
+      "Unaza e azotuar duhet të përmbajë një acid karboksilik",
+      "Unazat heterociklike hidrofobe me permasa të mëdha mbi unazën e azotuar ulin veprimin",
+      "Esterefikimi i karboksilateve çon në formimin e promedikamenteve"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "389",
+    "question": "389. Cili pohim nuk është i saktë, për lizinoprilin: ",
+    "options": [
+      "Është promedikament",
+      "Ka dy funksione karboksilike",
+      "Përmban aminoacidin lizinë",
+      "Përthithet më mirë në rrugë orale sesa enalaprilati, por më pak se enalaprili"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "390",
+    "question": "390. Cili nga ACE-inhibitorët e mëposhtëm, lidhet më pak me proteinat plazmatike: ",
+    "options": [
+      "Kuinaprili",
+      "Trandolaprili",
+      "Benazeprili",
+      "Enalaprili"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "391",
+    "question": "391. Në efektet anesore të shkaktuara nga ACE-inhibitoret, cili prej tyre shkaktohet nga pakësimi i sekretimit sekondar të aldosteronit:",
+    "options": [
+      "Hiperkaliemia",
+      "Teratogenicitet",
+      "Kolla e thatë",
+      "Ekzantema"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "392",
+    "question": "392. Cili nga ACE-inhibitoret e mëposhtëm, jashtëqitet i pandryshuar në urinë: ",
+    "options": [
+      "Benazeprili",
+      "Kuinaprili",
+      "Lizinoprili",
+      "Ramiprili"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "393",
+    "question": "393. Struktura e mëposhtme i takon grupit të:",
+    "options": [
+      "Diuretikëve",
+      "ACE-Inhibitorëve",
+      "Antianginozëve",
+      "Antagonistëve të receptorit të angiotensinës II"
+    ],
+    "image": [
+      "images\\image_195.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "394",
+    "question": "394. Cili nga pohimet e mëposhtme lidhur me marrëdheniet strukturë - veprim të Antagonistëve të receptorit të angiotenzinës II, nuk është i saktë:",
+    "options": [
+      "Grupet e afta për të imituar strukturën e angiotensinës II janë: acidi karboksilik, fenil tetrasoli, acidi fenilkarboksilik",
+      "Tetrasoli duhet që të jetë në pozicionin para, që të kemi një veprim optimal",
+      "Unaza benzimidazolike është e nevojshme për të imituar angiotenzinën II",
+      "Grupi tetrasolik është më i përshtatshmi për lipofilitetin dhe biodisponibilitetin oral"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "395",
+    "question": "395. Cili nga pohimet e mëposhtme lidhur me efektet anësore të Antagonistëve të receptorit të Angiotensines II, nuk është i saktë:",
+    "options": [
+      "Dhimbje koke, marrje mendsh",
+      "Hipotension",
+      "Hiperkalemi",
+      "Kollë e thatë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "396",
+    "question": "396. Struktura kimike e mëposhtme i takon klasës së:",
+    "options": [
+      "Antiparazitarëve",
+      "Antimikotikëve",
+      "Vazodilatatorëve",
+      "Bronkodilatatorëve"
+    ],
+    "image": [
+      "images\\image_216.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "397",
+    "question": "397. Cila nga format e mëposhtme të Minoxidilit, është përgjegjëse për efektin hipotensiv: ",
+    "options": [
+      "Forma e pandryshuar e Minoxidilit",
+      "N-O-sulfat Minoxidili",
+      "N-O-glukuronid Minoxidili",
+      "Oksidi i azotit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "398",
+    "question": "398. Cila nga klasat e mëposhtme, nuk bën pjesë në grupin e antianginozëve: ",
+    "options": [
+      "Nitratet organike",
+      "Bllokuesit e kanaleve të kalciumit",
+      "ß- bllokuesit",
+      "ACE-Inhibitorët"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "399",
+    "question": "399. Cili nga pohimet e mëposhtme për glikozidet kardiake, është i pasaktë: ",
+    "options": [
+      "Prezenca e një grupi acetilik tek sheqeri, rrit karakterin lipofil të glikozidit",
+      "Lipofilia e një glikozidi të dhënë, ulet me shtimin e numrit të molekulave të sheqerit",
+      "Lipofilia e një glikozidi të dhënë, rritet në varësi të shtimit të grupeve hidroksile të aglikonit",
+      "Ka me shumë se një pohim të pasaktë"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "400",
+    "question": "400. Lidhur me ndërveprimet e mëposhtëm, cili pohim nuk është i saktë: ",
+    "options": [
+      "Kinidina e marrë së bashku me digoksinën, redukton sekretimin e saj",
+      "Ndërveprimi rifampicin-digoksinë çon në rritje të sekretimit të digoksinës",
+      "Kolestiramina, ul përthithjen e digoksinës",
+      "Diuretikët ulin toksicitetin e digitalikëve për shkak të shtimit të efekteve hipokalemike"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "401",
+    "question": "401. Struktura e mëposhtme, i takon një substance e klasifikuar si:",
+    "options": [
+      "Antiaritmike",
+      "Glikozid kardiak",
+      "Diuretike",
+      "Antianginoze"
+    ],
+    "image": [
+      "images\\image_116.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "402",
+    "question": "402. Cila nga strukturat e diuretikëve të mëposhtëm, është një diuretik osmotik: CH2OH",
+    "options": [
+      "CH2OH",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_16.png",
+      "images\\image_36.png",
+      "images\\image_50.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "403",
+    "question": "403. Cila nga strukturat e diuretikeve të mëposhtëm, është një diuretik i ansës:",
+    "options": [
+      "CH2OH",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_16.png",
+      "images\\image_72.jpeg",
+      "images\\image_50.jpeg"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "404",
+    "question": "404. Cila nga strukturat e diuretikëve të mëposhtëm, është një diuretik benzotiadiazinik: CH2OH",
+    "options": [
+      "CH2OH",
+      "",
+      "",
+      "H2NO2S"
+    ],
+    "image": [
+      "images\\image_36.png",
+      "images\\image_16.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "405",
+    "question": "405. Cili është mekanizmi i veprimit të spironalaktonit: ",
+    "options": [
+      "Inhibimi i anhidrazës karbonike",
+      "Inhibimi konkurrues i aldosteronit",
+      "Efektet osmotike të cilët ulin përthithjen e natriumit dhe ujit",
+      "Inhibimi i sistemit të ko-transportit Na+/K+Cl¯"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "406",
+    "question": "406. Për strukturën e mëposhtme, tregoni cili pohim nuk është i vërtetë përsa i përket marrëdhënieve strukturorë-veprimi për diuretikët benzotiadiazinikë:",
+    "options": [
+      "Në pozicionin 6 është e nevojshme prania e një grupi elektron-akseptor",
+      "Në pozicionin 7 është e nevojshme prania e një grupi sulfonamidik",
+      "Ngopja e lidhjes dyfishe në pozicionin 3-4 çon në një rritje rreth 10 herë të aktivitetit",
+      "Futja e një grupi lipofil në pozicionin 3 çon në një ulje të aktivitetit diuretik"
+    ],
+    "image": [
+      "images\\image_102.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "407",
+    "question": "407. Në strukturën e mëposhtëme, cili është pozicioni që duhet të ketë grupi sulfonamidik, për të patur një veprim diuretik:",
+    "options": [
+      "Pozicioni në C6",
+      "Pozicioni në C3",
+      "Pozicioni në C5",
+      "Pozicioni në C7"
+    ],
+    "image": [
+      "images\\image_141.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "408",
+    "question": "408. Cili është mekanizmi i veprimit të Acetazolamidit: ",
+    "options": [
+      "Inhibimi i anhidrazës karbonike",
+      "Inhibimin konkurrues i aldosteronit",
+      "Efektet osmotike të cilet ulin përthithjen e natriumit dhe ujit",
+      "Inhibimi i sistemit të ko-transportit Na+/K+/Cl¯"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "409",
+    "question": "409. Struktura e mëposhtme është:",
+    "options": [
+      "Një glikozid kardiak",
+      "Një glukokortikoid",
+      "Një diuretik",
+      "Një antiaritmik"
+    ],
+    "image": [
+      "images\\image_162.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "410",
+    "question": "410. Spironolaktoni lidhet me receptorin duke penguar lidhjen e aldosteronit. Cili nga pohimet është i pasaktë:",
+    "options": [
+      "Kjo do të çojë në rritje të diurezës",
+      "Ne jashtëqitjen e joneve Na +e Cl-",
+      "Ne mbajtjen e K+.",
+      "Ne jashtëqitjen e joneve Na +e Cl- e K+."
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "411",
+    "question": "411. Në marrëdhëniet strukturë veprim për triamteremin, cili nga pohimet nuk është i saktë:",
+    "options": [
+      "Aktiviteti nuk ndryshon nëse grupi aminik, zëvendësohet me një grup të vogël alkilaminik",
+      "Ndërhyrja e një grupi metilik në -para- në unazën fenilike zvogëlon aktivitetin",
+      "Ndërhyrja me një grup hidroksil në -para- jep një komponim që është plotësisht inaktiv",
+      "Ndërhyrja me një grup hidroksil në -para- fuqizon veprimin"
+    ],
+    "image": [
+      "images\\image_185.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "412",
+    "question": "412. Amiloridi është një diuretik kursyes i K+ dhe struktura e tij kimike është: ",
+    "options": [
+      "Një derivat i pteridinës",
+      "Një derivat i aminopirazinës",
+      "Një derivat i acidit-5-sulfamoil antranilik",
+      "Një derivat i benzotidiazinës 1,1-dioksid"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "413",
+    "question": "413. Furosemidi është një diuretik i anses. Ai është: ",
+    "options": [
+      "Pteridinës",
+      "Aminopirazinës",
+      "Acidit-5-sulfamoil antranilik",
+      "Benzotidiazinës 1,1-dioksid"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "414",
+    "question": "414. Për trajtimin e astmës bronkiale përdoren derivate të adrenalinës. Cili nga pohimet e mëposhtme, lidhur me marrdhëniet strukturore veprimi, nuk është i saktë:",
+    "options": [
+      "Nga zmadhimi i zëvëndësuesve, te azoti ulet dukshëm veprimi i simpatomimetikëve në receptorët beta1",
+      "Nga zmadhimi i zëvëndësuesve, të azoti rritet dukshëm veprimi i simpatomimetikëve në receptorët beta1",
+      "Sulmi enzimatik i katekol-O-metiltransferazës mund të parandalohet nga futja e zëvendësuesve të përshtatshëm në unazë",
+      "Me anë të zëvendësimeve 3,5 dyhidroksi rritet edhe specificiteti për beta2 receptorët"
+    ],
+    "image": [
+      "images\\image_205.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "415",
+    "question": "415. Teofilina, etofilina e diprofilina, janë substanca bronkodilatatore, derivate: ",
+    "options": [
+      "Ksantinike",
+      "Të adrenalinës",
+      "Të atropinës",
+      "Të morfinës"
+    ],
+    "image": [
+      "images\\image_94.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "416",
+    "question": "416. Struktura e mëposhtme është një substancë me veprim antitusiv. Ajo është:",
+    "options": [
+      "Kodeina",
+      "Etilmorfina",
+      "Dekstrometorfani",
+      "Folkodina"
+    ],
+    "image": [
+      "images\\image_6.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "417",
+    "question": "417. Acetilcisteina, karbocisteina dhe guaifenazina, janë substanca: ",
+    "options": [
+      "Bronkodilatatore",
+      "Antitusive",
+      "Mukolitike",
+      "Vazodilatatore"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "418",
+    "question": "418. Bromhekzina, është një derivat i: ",
+    "options": [
+      "L-cisteinës",
+      "Dybromanilinës",
+      "Ksantinik",
+      "Adrenalinës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "419",
+    "question": "419. Struktura e mëposhtme është një substancë me veprim antidiarreik. Ajo është:",
+    "options": [
+      "Difenoksina",
+      "Difenoksilati",
+      "Loperamidi",
+      "Etakridina"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "420",
+    "question": "420. Loperamidi është një frenues i peristaltikës dhe derivat i: ",
+    "options": [
+      "Petidinës",
+      "8-hidroksikinolinës",
+      "Etoksiakridinës",
+      "Tanalbinës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "421",
+    "question": "421. Struktura e mëposhtme është një substancë me veprim H2 antihistaminik (antiuceroz). Ajo është:",
+    "options": [
+      "Cimetidina",
+      "Famotidina",
+      "Nizatidina",
+      "Ranitidina"
+    ],
+    "image": [
+      "images\\image_27.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "422",
+    "question": "422. Inhibitorët e Pompës Protonike (PPIs), janë substanca antiulceroze dhe struktura e tyre kimike është derivat i:",
+    "options": [
+      "Aminoalkilfuranit",
+      "5-metilimidazolit",
+      "piridilmetilbenzimidazolit",
+      "tiazolit"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "423",
+    "question": "423. Emërtimi kimik: Nπ-ciano-N-metil-N-{2-[(5-metilimidozol-4-il)metil]-tio]etil}-guanidina. I takon:",
+    "options": [
+      "Cimetidinës",
+      "Famotidinës",
+      "Nizatidinës",
+      "Ranitidinës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "424",
+    "question": "424. Struktura kimike e mëposhtme i takon:",
+    "options": [
+      "Cimetidinës",
+      "Famotidinës",
+      "Nizatidinës",
+      "Ranitidinës"
+    ],
+    "image": [
+      "images\\image_40.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "425",
+    "question": "425. Emërtimi kimik: (RS)-5-Metoksi-2-(4-metoksi-3,5-dimetil-2-piridilmetilsulfinil) benzimidazoli i takon:",
+    "options": [
+      "Omeprazolit",
+      "Pantoprazolit",
+      "Rabeprazolit",
+      "Lansoprazolit"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "426",
+    "question": "426. Proglumidi është një substancë antiulceroze. Ai është: ",
+    "options": [
+      "Antagonist i gastrinës",
+      "H2 antihistaminik",
+      "Bllokues i pompës protonike (PPIs)",
+      "Derivat i prostaglandinave"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "427",
+    "question": "427. Struktura e mëposhtme i takon një vitamine të tretshme në ujë, ajo është:",
+    "options": [
+      "Vitamina B1",
+      "Riboflavina",
+      "Acidi folik",
+      "Acidi askorbik"
+    ],
+    "image": [
+      "images\\image_62.png",
+      "images\\image_85.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "428",
+    "question": "428. Cila nga vitaminat e mëposhtme, tretet në yndyrna: ",
+    "options": [
+      "Vitamina B1",
+      "Vitamina E",
+      "Riboflavina",
+      "Acidi folik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "429",
+    "question": "429. Koenzimat e rrjedhura nga acidi folik, nuk marrin pjesë në reaksionin e: ",
+    "options": [
+      "kthimit të homocisteinës në metioninë",
+      "sintezës së glicinës nga serina",
+      "sintezës së purinës dhe metabolizmin e histidinës",
+      "dekarboksilimit të aminoacideve"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "431",
+    "question": "431. Cila nga strukturat e mëposhtme, i takon Acidit folik:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_196.png",
+      "images\\image_126.png",
+      "images\\image_153.png",
+      "images\\image_217.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "433",
+    "question": "433. Cila nga strukturat e mëposhtme, i takon Vitaminës C:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_127.png",
+      "images\\image_126.png",
+      "images\\image_153.png",
+      "images\\image_51.jpeg"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "434",
+    "question": "434. Për strukturën e mëposhtëme, cili nga pohimet është i saktë:",
+    "options": [
+      "Është një diuretik",
+      "Është një antiaritmik",
+      "Është ACE-inhibitor",
+      "Është një calcibllokues"
+    ],
+    "image": [
+      "images\\image_73.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "435",
+    "question": "435. Furosemidi është: ",
+    "options": [
+      "Antiaritmik",
+      "Diuretik",
+      "ACE-inhibitor",
+      "Calcibllokues"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "436",
+    "question": "436. Spironolaktoni është: ",
+    "options": [
+      "Diuretik kalikursyes ",
+      "Antianginoz",
+      "Antiaritmik",
+      "Asnjëra"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "437",
+    "question": "437. Në strukturën e mëposhtme, cili është pozicioni që duhet të ketë grupi elektronakseptor, për të patur një veprim diuretik:",
+    "options": [
+      "Pozicioni në C6",
+      "Pozicioni në C3",
+      "Pozicioni në C5",
+      "Pozicioni në C7"
+    ],
+    "image": [
+      "images\\image_103.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "438",
+    "question": "438. Në strukturën e mëposhtme, tregoni cili pohim nuk është i vërtetë përsa i përket marrëdhënieve strukturë-veprimi për diuretikët benzotiadiazinikë:",
+    "options": [
+      "Në pozicionin 6 është e nevojshme prania e një grupi elektron-akseptor",
+      "Në pozicionin 7 është e nevojshme prania e një grupi karboksilik",
+      "Ngopja e lidhjes dyfishe në pozicionin 3-4 çon në një rritje të aktivitetit",
+      "Futja e një grupi lipofil në pozicionin 3 çon në një rritje të aktivitetit diuretik"
+    ],
+    "image": [
+      "images\\image_142.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "439",
+    "question": "439. Triamtereni, një diuretik kursyes i K+, është derivat i: ",
+    "options": [
+      "Aminopirazinës",
+      "Acidit-5-sulfamoil antranilik",
+      "Pteridinës",
+      "Benzotidiazinës 1,1-dioksid"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "440",
+    "question": "440. Triamtereni është: ",
+    "options": [
+      "Antianginoz",
+      "Antiaritmik",
+      "Bar antilipoproteinemik",
+      "Diuretik kalikursyes"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "442",
+    "question": "442. Hidroklortiazidi është një diuretik, derivat i: ",
+    "options": [
+      "Pteridinës",
+      "Aminopirazinës",
+      "Acidit-5-sulfamoil antranilik",
+      "Benzotidiazinës 1,1-dioksid"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "443",
+    "question": "443. Strukutura e mëposhtme është një substancë me veprim antidiarreik. Ajo është:",
+    "options": [
+      "Difenoksina",
+      "Difenoksilati",
+      "Loperamidi",
+      "Etakridina"
+    ],
+    "image": [
+      "images\\image_95.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "444",
+    "question": "444. Struktura e mëposhtme është një substancë me veprim antidiarreik. Ajo është:",
+    "options": [
+      "Difenoksina",
+      "Difenoksilati",
+      "Loperamidi",
+      "Etakridina"
+    ],
+    "image": [
+      "images\\image_7.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "445",
+    "question": "445. Bisakodili, klasifikohet si bar: ",
+    "options": [
+      "Antidiaroik",
+      "Antiemetik",
+      "Frenues i peristaltikës",
+      "Laksativ"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "446",
+    "question": "446. Pikosulfati i natriumit, klasifikohet si bar: ",
+    "options": [
+      "Antidiaroik",
+      "Antiemetik",
+      "Frenues i peristaltikës",
+      "Laksativ"
+    ],
+    "image": [
+      "images\\image_20.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "447",
+    "question": "447. Amlodipina është një bar kalcibllokues, derivat i dihidropiridinës. Cila është struktura kimike e saj:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_41.png",
+      "images\\image_64.png",
+      "images\\image_86.png",
+      "images\\image_20.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "448",
+    "question": "448. Diltiazemi është një bar kalcibllokues, derivat benzotiazepinik. Cila është struktura kimike e tij:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_128.png",
+      "images\\image_155.png",
+      "images\\image_177.jpeg",
+      "images\\image_86.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "449",
+    "question": "449. Strukturat e mëposhtme i përkasin grupit të barnave kalcibllokuese. Verapamili bën pjesë te derivatet aril alkil aminike. Cila është struktura kimike e tij:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_155.png",
+      "images\\image_197.png",
+      "images\\image_20.png",
+      "images\\image_218.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "450",
+    "question": "450. Strukturat e mëposhtme i përkasin grupit të barnave kalcibllokuese. Bepridili bën pjesë te derivatet aril alkil aminike. Cila është struktura kimike e tij:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_155.png",
+      "images\\image_129.jpeg",
+      "images\\image_218.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "451",
+    "question": "451. Cila nga vitaminat e mëposhtme, nuk tretet në yndyrna: ",
+    "options": [
+      "Vitamina A",
+      "Vitamina E",
+      "Vitamina D",
+      "Vitamina C"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "452",
+    "question": "452. Lidhur me efektet anësore të bllokuesve të kanalit të kalciumit, cila nga alternativat nuk është e vërtetë:",
+    "options": [
+      "Hipotension",
+      "Hipertension",
+      "Dhimbje koke",
+      "Edemë periferike dhe pulmonare"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "453",
+    "question": "453. Pantoprazoli është një bar antiulceroz: ",
+    "options": [
+      "Antagonist i gastrinës",
+      "H2 antihistaminik",
+      "Bllokues i pompës protonike (PPIs)",
+      "Derivat i prostaglandinave"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "454",
+    "question": "454. Famotidina është një bar antiulceroz: ",
+    "options": [
+      "Antagonist i gastrinës",
+      "H2 antihistaminik",
+      "Bllokues i pompës protonike (PPIs)",
+      "Derivat i prostaglandinave"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "455",
+    "question": "455. Barnat e poshtëshënuara janë antiulcerozë. Emërtimi kimik: (RS)-5-Metoksi-2-(4-metoksi-3,5-dimetil-2-piridilmetilsulfinil) benzimidazoli, i takon:",
+    "options": [
+      "Nizatidinës",
+      "Famotidinës",
+      "Proglumidit",
+      "Omeprazolit"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "456",
+    "question": "456. Barnat e poshteshenuara jane antiulceroze. Emertimi kimik : N?-ciano-N-metil-N-{2-[(5-metilimidazol-4-il)metil]-tio]etil}-guanidina. I takon:",
+    "options": [
+      "Omeprazolit",
+      "Pantoprazolit",
+      "Cimetidines",
+      "Lansoprazolit"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "457",
+    "question": "457. Esomeprazoli është një bar antiulceroz: ",
+    "options": [
+      "Antagonist i gastrinës",
+      "H2 antihistaminik",
+      "Bllokues i pompës protonike (PPIs)",
+      "Derivat i prostaglandinave"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "458",
+    "question": "458. Lansoprazoli është një bar antiulceroz: ",
+    "options": [
+      "Bllokues i pompës protonike (PPIs)",
+      "Antagonist i gastrinës",
+      "H2 antihistaminik",
+      "Derivat i prostaglandinave"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "459",
+    "question": "459. Nizatidina është një bar antiulceroz: ",
+    "options": [
+      "Antagonist i gastrinës",
+      "H2 antihistaminik",
+      "Bllokues i pompës protonike (PPIs)",
+      "Derivat i prostaglandinave"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "460",
+    "question": "460. Barnat e poshtëshënuara janë antiulcerozë. Emërtimi kimik: 4-[2-(1-Metilamino-2-nitrovinilamino)etiltiometil]tiazol-2-il metil (dimetil) amina, i takon:",
+    "options": [
+      "Omeprazolit",
+      "Pantoprazolit",
+      "Lansoprazolit",
+      "Nizatidinës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "461",
+    "question": "461. Efekt anësor i Cimetidinës, është: ",
+    "options": [
+      "Efekt i dobët antiandrogjenik",
+      "Hiperaciditet",
+      "Hipertension",
+      "Hipotension"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "462",
+    "question": "462. Simvastatina është një bar: ",
+    "options": [
+      "Koronarodilatator",
+      "Diuretik",
+      "Antihipertensiv",
+      "Antilipoproteinemik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "463",
+    "question": "463. Metazolamidi është një bar diuretik. Mekanizmi i veprimit të tij është: ",
+    "options": [
+      "Inhibimi i anhidrazës karbonike",
+      "Inhibimi konkurues i aldosteronit",
+      "Efektet osmotike të cilët ulin përthithjen e natriumit dhe ujit",
+      "Inhibimi i sistemit të ko-transportit Na+/K+Cl¯"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "464",
+    "question": "464. Acetazolamidi është një bar diuretik. Mekanizmi i veprimit të tij është: ",
+    "options": [
+      "Inhibimi konkurues i aldosteronit",
+      "Efektet osmotike të cilët ulin përthithjen e natriumit dhe ujit",
+      "Inhibimi i sistemit të ko-transportit Na+/K+Cl¯",
+      "Inhibimi i anhidrazës karbonike"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "465",
+    "question": "465. Izosorbiti ka efekt diuretik. Mekanizmi i veprimit të tij është: ",
+    "options": [
+      "Inhibimi konkurues i aldosteronit",
+      "Efektet osmotike të cilët ulin përthithjen e natriumit dhe ujit",
+      "Inhibimi i sistemit të ko-transportit Na+/K+Cl¯",
+      "Inhibimi i anhidrazës karbonike"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "466",
+    "question": "466. Hidroklortiazidi ështe një bar: ",
+    "options": [
+      "Koronarodilatator",
+      "Diuretik",
+      "Antiulceroz",
+      "Antilipoproteinemik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "467",
+    "question": "467. Bumetanidi është një bar: ",
+    "options": [
+      "Diuretik",
+      "Koronarodilatator",
+      "Antiaritmik",
+      "Antilipoproteinemik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "468",
+    "question": "468. Atorvastatina:",
+    "options": [
+      "Vepron si inhibitor i sistemeve enzimatike që marrin pjesë në biosintezën e triglicerideve",
+      "Formon lidhje me hidroksilin e pozicionit tre te kolesteroli",
+      "Vepron si inhibitor i sistemit enzimatik që merr pjesë në biosintezën e kolesterolit",
+      "Formon lidhje me grupin karboksilik të acideve biliare në intestin"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "469",
+    "question": "469. Klofibrati ka veprim: ",
+    "options": [
+      "Diuretik",
+      "Koronarodilatator",
+      "Antiaritmik",
+      "Antilipoproteinemik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "470",
+    "question": "470. Fluvastatina ka veprim: ",
+    "options": [
+      "Antilipoproteinemik",
+      "Diuretik",
+      "Koronarodilatator",
+      "Antiaritmik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "471",
+    "question": "471. Lidhur me efektet anësore të Amiloridit (diuretik), është e vërtetë që shkakton: ",
+    "options": [
+      "Hipokalemi",
+      "Hiperkalemi",
+      "Hipertension",
+      "Aritmi"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "472",
+    "question": "472. Triamtereni nuk shkakton:",
+    "options": [
+      "rritje të jashtëqitjes së joneve Na+",
+      "rritje të jashtëqitjes së joneve Cl-",
+      "rritje të jashtëqitjes së joneve K+",
+      "K+ pothuajse nuk jashtëqitet fare"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "473",
+    "question": "473. Amiloridi nuk shkakton:",
+    "options": [
+      "rritje të jashtëqitjes së joneve Na+",
+      "rritje të jashtëqitjes së joneve K+",
+      "K+ pothuajse nuk jashtëqitet fare",
+      "rritje të jashtëqitjes së joneve Cl-"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "474",
+    "question": "474. Loperamidi, klasifikohet si bar: ",
+    "options": [
+      "Antiemetik",
+      "Laksativ",
+      "Dezifektant",
+      "Antidiaroik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "475",
+    "question": "475. Salbutamoli ka efekt: ",
+    "options": [
+      "Bronkospazmolitik",
+      "Mukolitik",
+      "Antihistaminik",
+      "Ekspektorant"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "476",
+    "question": "476. Strukturat kimike të mëposhtme i përkasin disa barnave mukolitike. Cila prej tyre i takon karbocisteinës:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_8.png",
+      "images\\image_30.png",
+      "images\\image_52.png",
+      "images\\image_74.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "477",
+    "question": "477. Strukturat kimike të mëposhtme i përkasin disa barnave mukolitike. Cila prej tyre i takon acetilcisteinës:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_104.png",
+      "images\\image_143.png",
+      "images\\image_165.png",
+      "images\\image_187.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "478",
+    "question": "478. Strukturat kimike të mëposhtme i përkasin disa barnave mukolitike. Cila prej tyre i takon bromhekzinës:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_207.png",
+      "images\\image_105.png",
+      "images\\image_133.jpeg",
+      "images\\image_21.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "479",
+    "question": "479. Strukturat kimike të mëposhtme i përkasin disa barnave mukolitike. Cila prej tyre i takon ambroksolit:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_42.png",
+      "images\\image_65.jpeg",
+      "images\\image_87.png",
+      "images\\image_130.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "480",
+    "question": "480. Bromhekzina ka efekt: ",
+    "options": [
+      "Bronkospazmolitik",
+      "Mukolitik",
+      "Antihistaminik",
+      "Antidiaroik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "481",
+    "question": "481. Ambroksoli ka efekt: ",
+    "options": [
+      "Bronkospazmolitik",
+      "Antihistaminik",
+      "Antidiaroik",
+      "Mukolitik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "482",
+    "question": "482. Strukturat kimike të mëposhtme i përkasin disa barnave mukolitike. Cila prej tyre i takon guaifenazinës:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_156.png",
+      "images\\image_178.png",
+      "images\\image_198.png",
+      "images\\image_222.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "483",
+    "question": "483. Lidhur me mekanizmin e veprimit të Sedativëve të kollës, nuk është e vërtetë që: ",
+    "options": [
+      "veprojnë në nivel qendror mbi qendrën e kollës",
+      "veprojne mbi receptorët specifike të traktit respirator",
+      "veprojne në mënyrë të tillë që qendra e kollës humbet përkohësisht aftësinë e mbledhjes së impulseve",
+      "veprojnë duke dhënë efekte bronkodilatatore"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "484",
+    "question": "484. Lidhur me përdorimin e kodeinës, është e vërtetë që: ",
+    "options": [
+      "nuk duhet përdorur në femijet nën 1 vjeç",
+      "nuk duhet përdorur në femijet mbi 3 vjeç",
+      "nuk duhet përdorur në femijet 3- 5 vjeç",
+      "Mund të përdoret në të gjitha moshat"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "485",
+    "question": "485. Cili nga pohimet e mëposhtme, është i pasaktë: ",
+    "options": [
+      "Folkodina ka më pak efekte anësore se kodeina",
+      "Dextrometomorfani ka më pak efekte anësore se kodeina",
+      "Acetilcisteina ka më pak efekte anësore se kodeina",
+      "Kodeina ka më pak efekte anësore se folkodina, se dekstrometomorfani dhe se acetilcisteina"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "486",
+    "question": "486. Lidhur me efektet anësore të Spironolaktonit, është e vërtetë që shkakton: ",
+    "options": [
+      "Hipokalemi",
+      "Hiperkalemi",
+      "Hipertension",
+      "Aritmi"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "487",
+    "question": "487. Folkodina është një bar që përdoret në lehtesimin e kollës. Është e vërtetë që vepron si: ",
+    "options": [
+      "Sedativ në nivel qendror mbi qendrën e kollës",
+      "Ekspektorant",
+      "Bronkodilatator",
+      "Antihistaminik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "488",
+    "question": "488. Acetilcisteina është një bar që përdoret në lehtësimin e kollës. Është e vërtetë që vepron si: ",
+    "options": [
+      "Sedativ në nivel qendror mbi qendrën e kollës",
+      "Mukolitik",
+      "Bronkodilatator",
+      "Antihistaminik"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "489",
+    "question": "489. Dextrometomorfani është një bar që përdoret në lehtësimin e kollës. Ai vepron si: ",
+    "options": [
+      "Ekspektorant",
+      "Bronkodilatator",
+      "Antihistaminik",
+      "Sedativ në nivel qendror mbi qendrën e kollës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "490",
+    "question": "490. Karboksimetilcisteina është një bar që përdoret në lehtësimin e kollës. Ajo vepron si: ",
+    "options": [
+      "Antihistaminik",
+      "Sedativ në nivel qendror mbi qendrën e kollës",
+      "Mukolitik",
+      "Bronkodilatator"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "491",
+    "question": "491. Te bronkodilatatoret, nuk bëjnë pjesë: ",
+    "options": [
+      "Substanca ß2-simpatomimetike",
+      "Substanca ß2-simpatolitike",
+      "Derivate ksantinike",
+      "Derivate parasimpatolitike"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "492",
+    "question": "492. Furosemidi nuk shkakton:",
+    "options": [
+      "rritje të jashtëqitjes së joneve Na+",
+      "rritje të jashtëqitjes së joneve K+",
+      "K+ pothuajse nuk jashtëqitet fare",
+      "rritje të jashtëqitjes së joneve Cl-"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "493",
+    "question": "493. Atorvastatina ka veprim: ",
+    "options": [
+      "Diuretik",
+      "Koronarodilatator",
+      "Antiaritmik",
+      "Antilipoproteinemik"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "494",
+    "question": "494. Teofilina është një derivat i: ",
+    "options": [
+      "L-cisteinës",
+      "Dybromanilinës",
+      "Ksantinik",
+      "Adrenalinës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "495",
+    "question": "495. Ambroksoli një bar mukolitik, është derivat i: ",
+    "options": [
+      "L-cisteinës",
+      "Dybromanilinës",
+      "Ksantinik",
+      "Adrenalinës"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "496",
+    "question": "496. Karboksimetilcisteina një bar mukolitik, është derivat i: ",
+    "options": [
+      "Dybromanilinës",
+      "Ksantinik",
+      "Adrenalinës",
+      "L-cisteinës"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "497",
+    "question": "497. Omeprazoli një bar antiulceroz, frenues i Pompës Protonike (PPIs), është derivat i: ",
+    "options": [
+      "Aminoalkilfuranit",
+      "5-metilimidazolit",
+      "Piridilmetilbenzimidazolit",
+      "Tiazolit"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "498",
+    "question": "498. Lansoprazoli një bar antiulceroz, frenues i Pompës Protonike (PPIs), është derivat i: ",
+    "options": [
+      "Piridilmetilbenzimidazolit",
+      "Aminoalkilfuranit",
+      "5-metilimidazolit",
+      "Tiazolit"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "499",
+    "question": "499. Klortiazidi është një diuretik, derivat i: ",
+    "options": [
+      "Pteridinës",
+      "Aminopirazinës",
+      "Acidit-5-sulfamoil antranilik",
+      "Benzotidiazinës 1,1-dioksid"
+    ],
+    "image": [
+      "images\\image_108.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "500",
+    "question": "500. Etakridina është një bar antidiaroik, derivat i: ",
+    "options": [
+      "Petidinës",
+      "8-hidroksikinolinës",
+      "Etoksiakridinës",
+      "Tanalbinës"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "502",
+    "question": "502. Cila nga strukturat e mëposhtme, i përket Bromhexinës:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_108.png",
+      "images\\image_130.png",
+      "images\\image_9.png",
+      "images\\image_53.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "503",
+    "question": "503. Cila nga strukturat e mëposhtme, i përket Spironolaktonit (diuretik, konkurues i aldosteronit):",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_108.png",
+      "images\\image_9.png",
+      "images\\image_75.png",
+      "images\\image_106.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "504",
+    "question": "504. Cila nga strukturat e mëposhtme, i përket Karbocisteinës:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_108.png",
+      "images\\image_144.png",
+      "images\\image_166.png",
+      "images\\image_188.png"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "505",
+    "question": "505. Propafenoni është një bar: ",
+    "options": [
+      "Diuretik",
+      "Koronarodilatator",
+      "Antiaritmik",
+      "Antilipoproteinemik"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "506",
+    "question": "506. Propanololi është një bllokues i receptoreve ß- adrenergjike, që përdoret si: ",
+    "options": [
+      "Diuretik",
+      "Koronarodilatator",
+      "Antiaritmik",
+      "Antilipoproteinemik"
+    ],
+    "image": [
+      "images\\image_210.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "507",
+    "question": "507. Struktura e mëposhtme, i përket:",
+    "options": [
+      "Acidit folik",
+      "Simvastatinës",
+      "Vitaminës C",
+      "Digoksinës"
+    ],
+    "image": [
+      "images\\image_145.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "508",
+    "question": "508. Struktura e mëposhtme, i përket:",
+    "options": [
+      "Acidit folik",
+      "Simvastatinës",
+      "Vitaminës C",
+      "Digoksinës"
+    ],
+    "image": [
+      "images\\image_167.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "509",
+    "question": "509. Struktura e mëposhtme, i përket:",
+    "options": [
+      "Një glikozidi kardiak",
+      "Një hormoni glukokortikoid",
+      "Një vitamine të tretshme në yndyrna",
+      "Një vitamine të tretshme në ujë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "510",
+    "question": "510. Struktura e mëposhtme, i përket:",
+    "options": [
+      "Një glikozidi kardiak",
+      "Një hormoni glukokortikoid",
+      "Një vitamine të tretshme në yndyrna",
+      "Një vitamine të tretshme në ujë"
+    ],
+    "image": [
+      "images\\image_189.jpeg",
+      "images\\image_211.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "511",
+    "question": "511. Struktura e mëposhtme, i përket:",
+    "options": [
+      "Një glikozidi kardiak",
+      "Një hormoni glukokortikoid",
+      "Një vitamine të tretshme në yndyrna",
+      "Një vitamine të tretshme në ujë"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "512",
+    "question": "512. Struktura kimike e acidit folik, është derivat i: ",
+    "options": [
+      "Piridoksalit",
+      "Pteridinës",
+      "Acidit pantotenik",
+      "Acidit nikotinik"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "513",
+    "question": "513. Mungesa e vitaminës D ne organizëm, shkakton: ",
+    "options": [
+      "Rakitizëm",
+      "Skorbut",
+      "Sëmundjen beri-beri",
+      "Pelagren"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "514",
+    "question": "514. Mungesa e vitaminës C në organizëm, shkakton: ",
+    "options": [
+      "Rakitizëm",
+      "Skorbut",
+      "Sëmundjen beri-beri",
+      "Pelagren"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "515",
+    "question": "515. Mungesa e Niacinës në organizëm, shkakton: ",
+    "options": [
+      "Rakitizëm",
+      "Skorbut",
+      "Sëmundjen beri-beri",
+      "Pelagren"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "516",
+    "question": "516. Mungesa e Vitaminës B1 në organizëm, shkakton: ",
+    "options": [
+      "Pelagren",
+      "Rakitizëm",
+      "Skorbut",
+      "Sëmundjen beri-beri"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "517",
+    "question": "517. Në trajtimin e epilepsisë, krahas barnave antiepileptike këshillohet marrja e: ",
+    "options": [
+      "Vitaminës C",
+      "Vitaminës B1",
+      "Vitaminës B6",
+      "Vitaminës B12"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "518",
+    "question": "518. Në trajtimin e rakitizmit, këshillohet marrja e: ",
+    "options": [
+      "Vitaminës E",
+      "Vitaminës C",
+      "Vitaminës B6",
+      "Vitaminës D"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "519",
+    "question": "519. Në trajtimin e anemive, këshillohet marrja e: ",
+    "options": [
+      "Vitaminës B12",
+      "Vitaminës K",
+      "Vitaminës E",
+      "Vitaminës D"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "520",
+    "question": "520. Në shkaqet që japin Xeroftalmi, përmendet mungesa e: ",
+    "options": [
+      "Vitaminës A",
+      "Vitaminës K",
+      "Vitaminës E",
+      "Vitaminës D"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "521",
+    "question": "521. Struktura e mëposhtme i takon një vitamine të tretshme në ujë, ajo është:",
+    "options": [
+      "Vitamina D",
+      "Riboflavina",
+      "Vitamina B12",
+      "Acidi askorbik"
+    ],
+    "image": [
+      "images\\image_109.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "522",
+    "question": "522. Barnat e mëposhtëm bëjnë pjesë në vazodilatatorët. Cila prej tyre është struktura e hidralazinës:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_10.png",
+      "images\\image_32.png",
+      "images\\image_54.png",
+      "images\\image_76.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "523",
+    "question": "523. Barnat e mëposhtëm bëjnë pjesë në vazodilatatorët. Cila prej tyre tyre është struktura e nitroprusidit të natriumit:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_107.png",
+      "images\\image_32.png",
+      "images\\image_54.png",
+      "images\\image_76.png"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "524",
+    "question": "524. Nuk është e vërtetë për Losartanin, që: ",
+    "options": [
+      "nuk interferon në nivelet e bradikininës ",
+      "interferon në nivelet e bradikininës",
+      "nuk interferon në nivel të prostaglandinës",
+      "vepron me receptorin e angiotensinësII"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "525",
+    "question": "525. Në barnat Antianginoze, nuk bëjnë pjesë: ",
+    "options": [
+      "Diuretikët",
+      "Nitratet organike",
+      "Bllokuesit e kanaleve të kalciumit",
+      "ß- bllokuesit"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "526",
+    "question": "526. Nitratet organike që përdoren si antianginozë, nuk janë: ",
+    "options": [
+      "Estere të acidit Nitrik me polialkole",
+      "Etere",
+      "Substanca jopolare",
+      "Substanaca volatile"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "527",
+    "question": "527. Trinitrati i glicerilit në rrugë sublinguale, fillon veprimin: ",
+    "options": [
+      "brenda 2 min",
+      "pas 15-30 sekondash",
+      "pas 7 min",
+      "pas 10 min"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "528",
+    "question": "528. Zgjatja e veprimit të Trinitratit të glicerilit në rrugë sublinguale, është jo më shumë se: ",
+    "options": [
+      "5-min",
+      "30-min",
+      "4-5 orë",
+      "3 orë"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "529",
+    "question": "529. Dinitrati i izosorbitit me rrugë sublinguale, fillon veprimin pas: ",
+    "options": [
+      "15-30 sek",
+      "7 min",
+      "10 min",
+      "3 min"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "530",
+    "question": "530. Zgjatja e veprimit të Dinitratit të izosorbitit në rrugë sublinguale, është jo më shumë se: ",
+    "options": [
+      "5 min",
+      "30 min",
+      "6 orë",
+      "3 orë"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "531",
+    "question": "531. Nitratet organike që përdoren në mjekimin si antianginozë, nuk mund të japin: ",
+    "options": [
+      "Hipotension",
+      "Hipertension",
+      "Puls të shpeshtë",
+      "Dhimbje koke"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "532",
+    "question": "532. Cili nga pohimet nuk është i saktë, për klasifikimin e substancave kalcibllokuese: ",
+    "options": [
+      "Derivate të dihidropiridinave",
+      "Derivate benzotiazepinik",
+      "Derivate aril alkil aminike",
+      "Derivate fenoksi izobutirike"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "533",
+    "question": "533. Antilipoproteinemikët, nuk mund të klasifikohen si: ",
+    "options": [
+      "Inhibitorë të HMG CoA reduktazës",
+      "Derivate të acidit izofenoksibutirik",
+      "Derivate benzotiazepinike",
+      "Sekuestrues të acideve biliare"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "534",
+    "question": "534. Antilipoproteinemikët, inhibitorë të HMG CoA reduktazës janë: ",
+    "options": [
+      "Derivate të acidit izofenoksibutirik",
+      "Derivatet benzotiazepinik",
+      "Acide 3,5-dihidroksiheptanoike të zëvendësuar",
+      "Kopolimere të polistirenit"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "535",
+    "question": "535. Fibratet me veprim antilipoproteinemik, kimikisht janë: ",
+    "options": [
+      "Derivate të acidit izofenoksibutirik",
+      "Derivate benzotiazepinik",
+      "Acide 3,5-dihidroksiheptanoike të zëvendësuar",
+      "Kopolimere të polistirenit"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "536",
+    "question": "536. Antilipoproteinemiket inhibitorë të HMG CoA reduktazës, ulin nivelet e kolesterolit me anë të mekanizmave të veprimit. Cila prej alternativave të mëposhtme nuk i përket këtyre mekanizmave: ",
+    "options": [
+      "inhibim i biosintezës së kolesterolit",
+      "rritje e përthithjes së LDL të ndermjetesuar nga receptoret dhe",
+      "pakësim i pararendesve të VLDL",
+      "Përthithje e acideve biliare dhe jashtëqitje e tyre"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "537",
+    "question": "537. Kolestiramina është një antilipoproteinemik, që ka mekanizëm veprimi: ",
+    "options": [
+      "inhibim të biosintezës së kolesterolit",
+      "rritje të përthithjes së LDL të ndërmjetësuar nga receptoret dhe",
+      "pakësim të pararendësve të VLDL",
+      "përthithje të acideve biliare dhe jashtëqitje të tyre"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "538",
+    "question": "538. Mekanizmi i veprimit të Simvastatinës (një bar antilipoproteinemik), është: ",
+    "options": [
+      "Përthithje e acideve biliare dhe jashtëqitje e tyre",
+      "Inhibim i biosintezës së kolesterolit",
+      "Inhibim i lipolizës në indin dhjamor",
+      "Inhibim i biosintezës së triglicerideve"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "539",
+    "question": "539. Mekanizmi i veprimit të Fibrateve (barna antilipoproteinemike), është: ",
+    "options": [
+      "Përthithje e acideve biliare dhe jashtëqitje e tyre",
+      "Inhibim i biosintezës së kolesterolit",
+      "Inhibim i biosintezës së triglicerideve",
+      "Asnjëra"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "540",
+    "question": "540. Fenofibrati është një bar antilipoproteinemik, me mekanizëm veprimi: ",
+    "options": [
+      "Përthithje të acideve biliare dhe jashtëqitje të tyre",
+      "Inhibim i biosintezës së triglicerideve",
+      "Inhibim i biosintezës së kolesterolit",
+      "Asnjëra"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "541",
+    "question": "541. Mekanizmi i veprimit të Fluvastatinës, një bar antilipoproteinemik, është: ",
+    "options": [
+      "Përthithje e acideve biliare dhe jashtëqitje të tyre",
+      "Inhibim i lipolizës në indin dhjamor",
+      "Inhibim i biosintezës së triglicerideve",
+      "Inhibim i biosintezës së kolesterolit"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "542",
+    "question": "542. Irbersartan është: ",
+    "options": [
+      "Diuretik",
+      "ACE-inhibitor",
+      "Antianginoz",
+      "Antagonist i receptorit të angiotensinës II"
+    ],
+    "image": [],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "543",
+    "question": "543. Irbersartani, një antagonist i receptorit të Angiotensinës II, nuk ka efekt anësor: ",
+    "options": [
+      "Kollën e thatë",
+      "Hipotensionin",
+      "Hipokaleminë",
+      "Dhimbjen e kokës"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "544",
+    "question": "544. Valsartan është:",
+    "options": [
+      "Antagonist i receptorit të angiotensinës II",
+      "Diuretik",
+      "ACE-inhibitor",
+      "Antianginoz"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "545",
+    "question": "545. Ramiprili është: ",
+    "options": [
+      "Diuretik",
+      "Antagonist i receptorit të angiotensinës II",
+      "ACE-inhibitor",
+      "Antianginoz"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "546",
+    "question": "546. Për antagonistët e angiotensinës II, nuk është e vërtetë që: ",
+    "options": [
+      "Nuk interferojnë në nivelet e bradikininës",
+      "Interferojnë në nivelet e bradikininës",
+      "Interferojnë në nivel të prostaglandinës",
+      "Veprojnë me receptorin e angiotensinës II"
+    ],
+    "image": [],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "547",
+    "question": "547. Telmisartani është: ",
+    "options": [
+      "Diuretik",
+      "Antagonist i receptorit të angiotensinës II",
+      "ACE-inhibitor",
+      "Antianginoz"
+    ],
+    "image": [],
+    "correctAnswer": "B"
+  },
+  {
+    "index": "548",
+    "question": "548. Nifedipina është: ",
+    "options": [
+      "Diuretik",
+      "Antagonist i receptorit të angiotensinës II",
+      "ACE-inhibitor",
+      "Kalcibllokues"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "549",
+    "question": "549. Nifedipina është një bar kalcibllokues derivat i dihidropiridinës. Struktura e saj kimike është:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_134.png",
+      "images\\image_157.png",
+      "images\\image_179.png",
+      "images\\image_201.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "550",
+    "question": "550. Enalaprili është një ACE-inhibitor, derivat i i prolinës. Struktura e tij kimike është:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_134.png",
+      "images\\image_157.png",
+      "images\\image_89.jpeg",
+      "images\\image_135.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "551",
+    "question": "551. Valsartani është një antagonist i receptorit të angiotensinës II, derivat i feniltetrazolit. Struktura e tij kimike është:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_22.png",
+      "images\\image_43.png",
+      "images\\image_66.png",
+      "images\\image_88.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "552",
+    "question": "552. Trinitrati i glicerilit është një bar koronarodilatator. Struktura e tij kimike është:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_134.png",
+      "images\\image_43.png",
+      "images\\image_110.png",
+      "images\\image_147.png"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "index": "553",
+    "question": "553. Prokainamidi është një bar antiaritmik. Struktura e tij kimike është:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_134.png",
+      "images\\image_43.png",
+      "images\\image_110.png",
+      "images\\image_168.png"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "index": "554",
+    "question": "554. Diazoksidi është një bar hipotensiv (vazodilatator). Cili nuk është pohim i saktë, në lidhje me efektet e padëshirueshme të tij:",
+    "options": [
+      "shkakton mbajtjen e Na+ dhe të ujit",
+      "shkakton edema",
+      "shkakton hiperglicemi",
+      "shkakton hipoglicemi"
+    ],
+    "image": [],
+    "correctAnswer": "C"
+  },
+  {
+    "index": "555",
+    "question": "555. Barnat e mëposhtëm bëjnë pjesë në vazodilatatorët. Struktura e minoxidilit është:",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "image": [
+      "images\\image_190.png",
+      "images\\image_213.png",
+      "images\\image_54.png",
+      "images\\image_76.png"
+    ]
+  },
+  {
+    "index": "556",
+    "question": "556. Struktura e mëposhtme i takon një vitamine të tretshme në ujë, ajo është:",
+    "options": [
+      "Vitamina D",
+      "Vitamina E",
+      "Vitamina H (Biotina)",
+      "Acidi askorbik"
+    ],
+    "image": [
+      "images\\image_111.jpeg"
+    ]
+  }
+]
